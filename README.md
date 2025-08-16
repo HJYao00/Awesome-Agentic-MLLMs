@@ -34,7 +34,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 * [2505] Visual Agentic Reinforcement Fine-Tuning [[Paper📑]](https://arxiv.org/abs/2505.14246) [[Code🔧]](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT)
 * [2506] MMSearch-R1: Incentivizing LMMs to Search [[Paper📑]](https://arxiv.org/abs/2506.20670) [[Code🔧]](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)
 * [2508] WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent [[Paper📑]](https://arxiv.org/abs/2508.05748) [[Code🔧]](https://github.com/Alibaba-NLP/WebAgent)
-* [2508] MiroMind Open Deep Research (https://miromind.ai/blog/miromind-open-deep-research)
+* [2508] MiroMind Open Deep Research [[Blog📝]](https://miromind.ai/blog/miromind-open-deep-research)
 <!-- text-->
 * [2502] Introducing deep research [[Blog📝]](https://openai.com/index/introducing-deep-research/)
 * [2507] WebSailor: Navigating Super-human Reasoning for Web Agent [[Paper📑]](https://arxiv.org/abs/2508.05748) [[Code🔧]](https://github.com/Alibaba-NLP/WebAgent)
