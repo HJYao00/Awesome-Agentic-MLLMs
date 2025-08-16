@@ -5,28 +5,48 @@
 Feel free to ⭐ star and fork this repository to keep up with the latest advancements and contribute to the community.
 
 
+## 📒 Table of Contents
+
+- [Awesome-Agentic-MLLM](#awesome-agentic-mllm)
+  - [Survey](#survey)
+  - [Agentic Search](#agentic-search)
+  - [Agentic Code](#agentic-code)
+  - [Framework](#framework)
+
 ---
 
 ## To be classified
 * PyVision: Agentic Vision with Dynamic Tooling
 * VisualToolAgent (VisTA): A Reinforcement Learning Framework for Visual Tool Selection
 
-## Framework
+---
 
-* verl: Volcano Engine Reinforcement Learning for LLMs [[Code🔧]](https://github.com/volcengine/verl)
+
+## Survey
+* [2506] From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents [[Paper📑]](https://arxiv.org/abs/2506.18959) [[Github📚]](https://github.com/DavidZWZ/Awesome-Deep-Research)
+
+
 
 ---
 
-## Agentic search 
+## Agentic Search 
 
-* Visual Agentic Reinforcement Fine-Tuning []
-* MMSearch-R1: Incentivizing LMMs to Search [[Paper📑]](https://arxiv.org/abs/2506.20670) [[Code🔧]](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)
-* WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent [[Paper📑]](https://arxiv.org/abs/2508.05748) [[Code🔧]](https://github.com/Alibaba-NLP/WebAgent)
-* MiroMind Open Deep Research (https://miromind.ai/blog/miromind-open-deep-research)
-
+* [2505] Visual Agentic Reinforcement Fine-Tuning [[Paper📑]](https://arxiv.org/abs/2505.14246) [[Code🔧]](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT)
+* [2506] MMSearch-R1: Incentivizing LMMs to Search [[Paper📑]](https://arxiv.org/abs/2506.20670) [[Code🔧]](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)
+* [2508] WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent [[Paper📑]](https://arxiv.org/abs/2508.05748) [[Code🔧]](https://github.com/Alibaba-NLP/WebAgent)
+* [2508] MiroMind Open Deep Research (https://miromind.ai/blog/miromind-open-deep-research)
 <!-- text-->
-* From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents
+* [2502] Introducing deep research [[Blog📝]](https://openai.com/index/introducing-deep-research/)
 * [2507] WebSailor: Navigating Super-human Reasoning for Web Agent [[Paper📑]](https://arxiv.org/abs/2508.05748) [[Code🔧]](https://github.com/Alibaba-NLP/WebAgent)
+* [2508] Introducing gpt-oss [[Blog📝](https://cdn.openai.com/pdf/419b6906-9da6-406c-a19d-1bb078ac7637/oai_gpt-oss_model_card.pdf) [[Code🔧]](https://github.com/openai/gpt-oss)
+* [] 
+
+---
+
+## Search Agent 
+
+* [2401] WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models [[Paper📑]](https://arxiv.org/abs/2401.13919) [[Code🔧]](https://github.com/MinorJerry/WebVoyager)
+
 ---
 
 ## Agentic code
@@ -38,4 +58,7 @@ GUI VLA
 
 
 
+## Framework
+
+* verl: Volcano Engine Reinforcement Learning for LLMs [[Code🔧]](https://github.com/volcengine/verl)
 
