@@ -55,6 +55,13 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ## Agentic code
 
+* [2505] Visual Agentic Reinforcement Fine-Tuning [[Paper📑]](https://arxiv.org/abs/2505.14246) [[Code🔧]](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT)
+* [2505] OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2505.08617) [[Code🔧]](https://github.com/zhaochen0110/OpenThinkIMG)
+* [2505] DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2505.14362) [[Code🔧]](https://github.com/Visual-Agent/DeepEyes)
+* [2505] Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL [[Paper📑]](https://arxiv.org/abs/2505.15436) [[Code🔧]](https://github.com/xtong-zhang/Chain-of-Focus)
+* [2505] Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2505.15966) [[Code🔧]](https://github.com/TIGER-AI-Lab/Pixel-Reasoner)
+
+
 ---
 
 
