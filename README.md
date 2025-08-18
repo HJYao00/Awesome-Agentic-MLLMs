@@ -8,9 +8,13 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 ## 📒 Table of Contents
 
 - [Awesome-Agentic-MLLM](#awesome-agentic-mllm)
+  - [📒 Table of Contents](#-table-of-contents)
+  - [To be classified](#to-be-classified)
   - [Survey](#survey)
   - [Agentic Search](#agentic-search)
-  - [Agentic Code](#agentic-code)
+  - [Search Agent](#search-agent)
+  - [Agentic code](#agentic-code)
+  - [Action](#action)
   - [Framework](#framework)
 
 ---
@@ -54,8 +58,9 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 ---
 
 
-GUI VLA
+## Action
 
+* [2507] ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning [[Paper📑]](https://arxiv.org/abs/2507.16815) [[Project 🌐](https://jasper0314-huang.github.io/thinkact-vla/)] 
 
 
 ## Framework
