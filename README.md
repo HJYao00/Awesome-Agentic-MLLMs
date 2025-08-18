@@ -22,7 +22,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 ## To be classified
 * PyVision: Agentic Vision with Dynamic Tooling
 * VisualToolAgent (VisTA): A Reinforcement Learning Framework for Visual Tool Selection
-
+* Agentic Reasoning: A Streamlined Framework for Enhancing LLM Reasoning with Agentic Tools (prompt-based)
 ---
 
 
@@ -57,7 +57,11 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 * [2506] CoRT: Code-integrated Reasoning within Thinking [[Paper📑]](https://arxiv.org/abs/2506.09820) [[Code🔧]](https://github.com/ChengpengLi1003/CoRT)
 * [2506] Computational Thinking Reasoning in Large Language Models [[Paper📑]](https://arxiv.org/abs/2506.02658)
 * [2505] VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use [[Paper📑]](https://arxiv.org/abs/2505.19255) [[Code🔧]](https://github.com/VTool-R1/VTool-R1)
+* [2505] Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2505.16410) [[Code🔧]](https://github.com/dongguanting/Tool-Star)
+* [2504] ReTool: Reinforcement Learning for Strategic Tool Use in LLMs [[Paper📑]](https://arxiv.org/abs/2504.11536) [[Code🔧]](https://github.com/ReTool-RL/ReTool)
+* [2504] SQL-R1: Training Natural Language to SQL Reasoning Model By Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2504.08600) [[Code🔧]](https://github.com/DataArcTech/SQL-R1) 
 * [2505] Visual Agentic Reinforcement Fine-Tuning [[Paper📑]](https://arxiv.org/abs/2505.14246) [[Code🔧]](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT)
+* [2506] ComfyUI-R1: Exploring Reasoning Models for Workflow Generation [[Paper📑]](https://arxiv.org/abs/2506.09790) [[Code🔧]](https://github.com/AIDC-AI/ComfyUI-Copilot)
 * [2505] OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2505.08617) [[Code🔧]](https://github.com/zhaochen0110/OpenThinkIMG)
 * [2505] DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2505.14362) [[Code🔧]](https://github.com/Visual-Agent/DeepEyes)
 * [2505] Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL [[Paper📑]](https://arxiv.org/abs/2505.15436) [[Code🔧]](https://github.com/xtong-zhang/Chain-of-Focus)
