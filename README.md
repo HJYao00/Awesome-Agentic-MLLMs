@@ -60,7 +60,12 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 * [2505] DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2505.14362) [[Code🔧]](https://github.com/Visual-Agent/DeepEyes)
 * [2505] Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL [[Paper📑]](https://arxiv.org/abs/2505.15436) [[Code🔧]](https://github.com/xtong-zhang/Chain-of-Focus)
 * [2505] Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2505.15966) [[Code🔧]](https://github.com/TIGER-AI-Lab/Pixel-Reasoner)
-
+* [2505] Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO [[Paper📑]](https://arxiv.org/abs/2505.21457) [[Code🔧]](https://github.com/aim-uofa/Active-o3)
+* [2506] VGR: Visual Grounded Reasoning [[Paper📑]](https://arxiv.org/abs/2506.11991) 
+* [2505] VLM-R3: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought [[Paper📑]](https://arxiv.org/abs/2505.16192) 
+* [2505] ARGUS: Vision-Centric Reasoning with Grounded Chain-of-Thought [[Paper📑]](https://arxiv.org/abs/2505.23766) 
+* [2505] Ground-R1: Incentivizing Grounded Visual Reasoning via Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2505.20272) [[Code🔧]](https://github.com/zzzhhzzz/Ground-R1)
+* [2506] Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing [[Paper📑]](https://arxiv.org/abs/2506.09965) [[Code🔧]](https://github.com/AntResearchNLP/ViLaSR)
 
 ---
 
