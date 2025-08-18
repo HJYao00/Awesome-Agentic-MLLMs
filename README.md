@@ -42,7 +42,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 <!-- text-->
 * [2502] Introducing deep research [[Blog📝]](https://openai.com/index/introducing-deep-research/)
 * [2507] WebSailor: Navigating Super-human Reasoning for Web Agent [[Paper📑]](https://arxiv.org/abs/2508.05748) [[Code🔧]](https://github.com/Alibaba-NLP/WebAgent)
-* [2508] Introducing gpt-oss [[Blog📝](https://cdn.openai.com/pdf/419b6906-9da6-406c-a19d-1bb078ac7637/oai_gpt-oss_model_card.pdf) [[Code🔧]](https://github.com/openai/gpt-oss)
+* [2508] Introducing gpt-oss [[Blog📝]](https://cdn.openai.com/pdf/419b6906-9da6-406c-a19d-1bb078ac7637/oai_gpt-oss_model_card.pdf) [[Code🔧]](https://github.com/openai/gpt-oss)
 * [] 
 
 ---
@@ -60,6 +60,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ## Action
 
+* [2508] MolmoAct: Action Reasoning Models that can Reason in Space [[Paper📑]](https://arxiv.org/abs/2508.07917)  [[Code🔧]](https://github.com/allenai/MolmoAct) [[Blog📝]] (https://allenai.org/blog/molmoact)
 * [2507] ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning [[Paper📑]](https://arxiv.org/abs/2507.16815) [[Project 🌐](https://jasper0314-huang.github.io/thinkact-vla/)] 
 
 
