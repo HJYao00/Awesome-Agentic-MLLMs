@@ -54,7 +54,9 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 ---
 
 ## Agentic code
-
+* [2506] CoRT: Code-integrated Reasoning within Thinking [[Paper📑]](https://arxiv.org/abs/2506.09820) [[Code🔧]](https://github.com/ChengpengLi1003/CoRT)
+* [2506] Computational Thinking Reasoning in Large Language Models [[Paper📑]](https://arxiv.org/abs/2506.02658)
+* [2505] VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use [[Paper📑]](https://arxiv.org/abs/2505.19255) [[Code🔧]](https://github.com/VTool-R1/VTool-R1)
 * [2505] Visual Agentic Reinforcement Fine-Tuning [[Paper📑]](https://arxiv.org/abs/2505.14246) [[Code🔧]](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT)
 * [2505] OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2505.08617) [[Code🔧]](https://github.com/zhaochen0110/OpenThinkIMG)
 * [2505] DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2505.14362) [[Code🔧]](https://github.com/Visual-Agent/DeepEyes)
