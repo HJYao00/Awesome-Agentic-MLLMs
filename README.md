@@ -27,9 +27,9 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 
 ## Survey
-* [2308] A Survey on Large Language Model based Autonomous Agents [[Paper📑]](A Survey on Large Language Model based Autonomous Agents) [[Github📚]](https://github.com/DavidZWZ/Awesome-Deep-Research)
+* [2308] A Survey on Large Language Model based Autonomous Agents [[Paper📑]](https://arxiv.org/abs/2308.11432) [[Project📚]](https://github.com/DavidZWZ/Awesome-Deep-Research)
 * [2402] Large Multimodal Agents: A Survey [[Paper📑]](https://arxiv.org/abs/2402.15116)
-* [2506] From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents [[Paper📑]](https://arxiv.org/abs/2506.18959) [[Github📚]](https://github.com/DavidZWZ/Awesome-Deep-Research)
+* [2506] From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents [[Paper📑]](https://arxiv.org/abs/2506.18959) [[Project📚]](https://github.com/DavidZWZ/Awesome-Deep-Research)
 * [2507] Evaluation and Benchmarking of LLM Agents: A Survey [[Paper📑]](https://arxiv.org/pdf/2507.21504)
 * [2508] AI Agentic Programming: A Survey of Techniques, Challenges, and Opportunities [[Paper📑]](https://arxiv.org/pdf/2508.11126)
 * [2508] Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction [[Paper📑]](https://arxiv.org/pdf/2508.05294)
@@ -53,7 +53,19 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ## Search Agent 
 
+* [2112] WebGPT: WebGPT: Browser-assisted question-answering with human feedback [[Paper📑]](https://arxiv.org/pdf/2112.09332)
+* [2207] WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents [[Paper📑]](https://arxiv.org/pdf/2207.01206) [[Code🔧]](https://github.com/princeton-nlp/WebShop)
+* [2306] MIND2WEB: Towards a Generalist Agent for the Web [[Paper📑]](https://arxiv.org/abs/2306.06070)
+* [2310] WebWISE: Web Interface Control and Sequential Exploration with Large Language Models [[Paper📑]](https://arxiv.org/pdf/2310.16042)
 * [2401] WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models [[Paper📑]](https://arxiv.org/abs/2401.13919) [[Code🔧]](https://github.com/MinorJerry/WebVoyager)
+* [2401] GPT-4V(ision) is a Generalist Web Agent, if Grounded [[Paper📑]](https://arxiv.org/pdf/2401.01614) [[Code🔧]](https://github.com/OSU-NLP-Group/SeeAct)
+* [2410] OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization [[Paper📑]](https://arxiv.org/abs/2410.19609) [[Code🔧]](https://github.com/MinorJerry/OpenWebVoyager)
+* [2410] Multimodal Auto Validation For Self-Refinement in Web Agents [[Paper📑]] (https://arxiv.org/abs/2410.00689)
+* [2411] AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations [[Paper📑]](https://arxiv.org/abs/2411.13451)
+
+## Agentic Mem
+
+* [2502] A-Mem: Agentic Memory for LLM Agents [[Paper📑]](https://arxiv.org/pdf/2502.12110) [[Code🔧]](https://github.com/WujiangXu/A-mem)
 
 ---
 
