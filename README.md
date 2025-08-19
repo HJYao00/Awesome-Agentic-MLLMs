@@ -27,6 +27,8 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 
 ## Survey
+* [2308] A Survey on Large Language Model based Autonomous Agents [[Paper📑]](A Survey on Large Language Model based Autonomous Agents) [[Github📚]](https://github.com/DavidZWZ/Awesome-Deep-Research)
+* [2402] Large Multimodal Agents: A Survey [[Paper📑]](https://arxiv.org/abs/2402.15116)
 * [2506] From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents [[Paper📑]](https://arxiv.org/abs/2506.18959) [[Github📚]](https://github.com/DavidZWZ/Awesome-Deep-Research)
 * [2507] Evaluation and Benchmarking of LLM Agents: A Survey [[Paper📑]](https://arxiv.org/pdf/2507.21504)
 * [2508] AI Agentic Programming: A Survey of Techniques, Challenges, and Opportunities [[Paper📑]](https://arxiv.org/pdf/2508.11126)
@@ -76,7 +78,6 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 * [2506] Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing [[Paper📑]](https://arxiv.org/abs/2506.09965) [[Code🔧]](https://github.com/AntResearchNLP/ViLaSR)
 
 ---
-
 
 
 ## GUI Agent
