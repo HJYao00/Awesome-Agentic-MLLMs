@@ -29,6 +29,8 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 ## Survey
 * [2308] A Survey on Large Language Model based Autonomous Agents [[Paper📑]](https://arxiv.org/abs/2308.11432) [[Project📚]](https://github.com/DavidZWZ/Awesome-Deep-Research)
 * [2402] Large Multimodal Agents: A Survey [[Paper📑]](https://arxiv.org/abs/2402.15116)
+* [2501] Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG [[Paper📑]](https://arxiv.org/abs/2501.09136)
+* [2503] Agentic Large Language Models, a survey [[Paper📑]](https://arxiv.org/abs/2503.23037)
 * [2506] From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents [[Paper📑]](https://arxiv.org/abs/2506.18959) [[Project📚]](https://github.com/DavidZWZ/Awesome-Deep-Research)
 * [2507] Evaluation and Benchmarking of LLM Agents: A Survey [[Paper📑]](https://arxiv.org/pdf/2507.21504)
 * [2508] AI Agentic Programming: A Survey of Techniques, Challenges, and Opportunities [[Paper📑]](https://arxiv.org/pdf/2508.11126)
@@ -57,8 +59,10 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 * [2207] WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents [[Paper📑]](https://arxiv.org/pdf/2207.01206) [[Code🔧]](https://github.com/princeton-nlp/WebShop)
 * [2306] MIND2WEB: Towards a Generalist Agent for the Web [[Paper📑]](https://arxiv.org/abs/2306.06070)
 * [2310] WebWISE: Web Interface Control and Sequential Exploration with Large Language Models [[Paper📑]](https://arxiv.org/pdf/2310.16042)
+* [2401] VisualWebArena: Evaluating Multimodal Agents on Realistic Visually Grounded Web Tasks [[Paper📑]](https://arxiv.org/abs/2401.13649) [[Code🔧]](https://jykoh.com/vwa)
 * [2401] WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models [[Paper📑]](https://arxiv.org/abs/2401.13919) [[Code🔧]](https://github.com/MinorJerry/WebVoyager)
 * [2401] GPT-4V(ision) is a Generalist Web Agent, if Grounded [[Paper📑]](https://arxiv.org/pdf/2401.01614) [[Code🔧]](https://github.com/OSU-NLP-Group/SeeAct)
+* [2408] PhishAgent: A Robust Multimodal Agent for Phishing Webpage Detection [[Paper📑]](https://arxiv.org/abs/2408.10738)
 * [2410] OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization [[Paper📑]](https://arxiv.org/abs/2410.19609) [[Code🔧]](https://github.com/MinorJerry/OpenWebVoyager)
 * [2410] Multimodal Auto Validation For Self-Refinement in Web Agents [[Paper📑]] (https://arxiv.org/abs/2410.00689)
 * [2411] AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations [[Paper📑]](https://arxiv.org/abs/2411.13451)
@@ -93,6 +97,10 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 
 ## GUI Agent
+
+* [] You Only Look at Screens: Multimodal Chain-of-Action Agents
+
+## Agentic GUI
 
 
 ## VLA Action
