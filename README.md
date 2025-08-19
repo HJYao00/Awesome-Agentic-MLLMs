@@ -28,8 +28,10 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ## Survey
 * [2506] From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents [[Paper📑]](https://arxiv.org/abs/2506.18959) [[Github📚]](https://github.com/DavidZWZ/Awesome-Deep-Research)
-
-
+* [2507] Evaluation and Benchmarking of LLM Agents: A Survey [[Paper📑]](https://arxiv.org/pdf/2507.21504)
+* [2508] AI Agentic Programming: A Survey of Techniques, Challenges, and Opportunities [[Paper📑]](https://arxiv.org/pdf/2508.11126)
+* [2508] Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction [[Paper📑]](https://arxiv.org/pdf/2508.05294)
+* [2508] A Survey on Agent Workflow – Status and Future [[Paper📑]](https://arxiv.org/pdf/2508.01186)
 
 ---
 
@@ -76,7 +78,11 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 ---
 
 
-## Action
+
+## GUI Agent
+
+
+## VLA Action
 
 * [2508] MolmoAct: Action Reasoning Models that can Reason in Space [[Paper📑]](https://arxiv.org/abs/2508.07917)  [[Code🔧]](https://github.com/allenai/MolmoAct) [[Blog📝]](https://allenai.org/blog/molmoact)
 * [2507] ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning [[Paper📑]](https://arxiv.org/abs/2507.16815) [[Project 🌐](https://jasper0314-huang.github.io/thinkact-vla/)] 
