@@ -82,6 +82,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 * [2504] SQL-R1: Training Natural Language to SQL Reasoning Model By Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2504.08600) [[Code🔧]](https://github.com/DataArcTech/SQL-R1) 
 * [2505] Visual Agentic Reinforcement Fine-Tuning [[Paper📑]](https://arxiv.org/abs/2505.14246) [[Code🔧]](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT)
 * [2506] ComfyUI-R1: Exploring Reasoning Models for Workflow Generation [[Paper📑]](https://arxiv.org/abs/2506.09790) [[Code🔧]](https://github.com/AIDC-AI/ComfyUI-Copilot)
+* [2508] Thyme: Think Beyond Images [[Paper📑]](https://arxiv.org/pdf/2508.11630) [[Code🔧]](https://github.com/yfzhang114/Thyme)
 * [2505] OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2505.08617) [[Code🔧]](https://github.com/zhaochen0110/OpenThinkIMG)
 * [2505] DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2505.14362) [[Code🔧]](https://github.com/Visual-Agent/DeepEyes)
 * [2505] Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL [[Paper📑]](https://arxiv.org/abs/2505.15436) [[Code🔧]](https://github.com/xtong-zhang/Chain-of-Focus)
