@@ -110,6 +110,9 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 * [2507] ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning [[Paper📑]](https://arxiv.org/abs/2507.16815) [[Project 🌐](https://jasper0314-huang.github.io/thinkact-vla/)] 
 * [2506] VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning [[Paper📑]](https://arxiv.org/abs/2506.17221) [[Blog📝]](https://vlnr1.github.io/) [[Code🔧]](https://github.com/Qi-Zhangyang/GPT4Scene-and-VLN-R1)
 
+## Benchmark
+* [2508] Dissecting Tool-Integrated Reasoning: An Empirical Study and Analysis [[Paper📑]](https://arxiv.org/pdf/2508.15754) 
+
 ## Framework
 
 * verl: Volcano Engine Reinforcement Learning for LLMs [[Code🔧]](https://github.com/volcengine/verl)
