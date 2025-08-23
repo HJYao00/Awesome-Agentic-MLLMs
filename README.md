@@ -30,6 +30,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 * [2308] A Survey on Large Language Model based Autonomous Agents [[Paper📑]](https://arxiv.org/abs/2308.11432) [[Project📚]](https://github.com/DavidZWZ/Awesome-Deep-Research)
 * [2402] Large Multimodal Agents: A Survey [[Paper📑]](https://arxiv.org/abs/2402.15116)
 * [2501] Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG [[Paper📑]](https://arxiv.org/abs/2501.09136)
+* [2502] Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation [[Paper📑]](https://arxiv.org/abs/2502.08826)
 * [2503] Agentic Large Language Models, a survey [[Paper📑]](https://arxiv.org/abs/2503.23037)
 * [2506] From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents [[Paper📑]](https://arxiv.org/abs/2506.18959) [[Project📚]](https://github.com/DavidZWZ/Awesome-Deep-Research)
 * [2507] Evaluation and Benchmarking of LLM Agents: A Survey [[Paper📑]](https://arxiv.org/pdf/2507.21504)
@@ -66,6 +67,8 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 * [2410] OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization [[Paper📑]](https://arxiv.org/abs/2410.19609) [[Code🔧]](https://github.com/MinorJerry/OpenWebVoyager)
 * [2410] Multimodal Auto Validation For Self-Refinement in Web Agents [[Paper📑]] (https://arxiv.org/abs/2410.00689)
 * [2411] AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations [[Paper📑]](https://arxiv.org/abs/2411.13451)
+
+* [2501] Visual RAG: Expanding MLLM visual knowledge without fine-tuning
 
 ## Agentic Mem
 
