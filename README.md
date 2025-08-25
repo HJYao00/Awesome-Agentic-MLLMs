@@ -40,6 +40,19 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ---
 
+## Reflection
+
+* [2411] Vision-Language Models Can Self-Improve Reasoning via Reflection [[Paper📑]](https://arxiv.org/abs/2411.00855) [[Code🔧]](https://github.com/njucckevin/MM-Self-Improve)
+* [2412] Mulberry: Empowering mllm with o1-like reasoning and reflection via collective monte carlo tree search [[Paper📑]](https://arxiv.org/pdf/2412.18319) [[Code🔧]](https://github.com/HJYao00/Mulberry)
+* [2503] V-Stylist: Video Stylization via Collaboration and Reflection of MLLM Agents [[Paper📑]](https://arxiv.org/abs/2503.12077) [[Code🔧]]()
+* [2504] MASR: Self-Reflective Reasoning through Multimodal Hierarchical Attention Focusing for Agent-based Video Understanding [[Paper📑]](https://arxiv.org/abs/2504.17213)
+* [2504] VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2504.08837) [[Code🔧]](https://tiger-ai-lab.github.io/VL-Rethinker/)
+* [2505] Training-Free Reasoning and Reflection in MLLMs [[Paper📑]](https://arxiv.org/abs/2505.16151) [[Code🔧]](https://iip.whu.edu.cn/frank/index.html)
+* [2506] SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2506.01713) [[Code🔧]](https://srpo.pages.dev/)
+* [2507] Look-Back: Implicit Visual Re-focusing in MLLM Reasoning [[Paper📑]](https://arxiv.org/pdf/2507.03019) [[Code🔧]](https://github.com/PKU-YuanGroup/Look-Back)
+
+--
+
 ## Agentic Search 
 
 * [2505] Visual Agentic Reinforcement Fine-Tuning [[Paper📑]](https://arxiv.org/abs/2505.14246) [[Code🔧]](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT)
