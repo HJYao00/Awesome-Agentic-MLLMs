@@ -32,6 +32,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 * [2501] Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG [[Paper📑]](https://arxiv.org/abs/2501.09136)
 * [2502] Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation [[Paper📑]](https://arxiv.org/abs/2502.08826)
 * [2503] Agentic Large Language Models, a survey [[Paper📑]](https://arxiv.org/abs/2503.23037)
+* [2504] From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs [[Paper📑]](https://arxiv.org/pdf/2504.15965) 
 * [2506] From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents [[Paper📑]](https://arxiv.org/abs/2506.18959) [[Project📚]](https://github.com/DavidZWZ/Awesome-Deep-Research)
 * [2507] Evaluation and Benchmarking of LLM Agents: A Survey [[Paper📑]](https://arxiv.org/pdf/2507.21504)
 * [2508] AI Agentic Programming: A Survey of Techniques, Challenges, and Opportunities [[Paper📑]](https://arxiv.org/pdf/2508.11126)
