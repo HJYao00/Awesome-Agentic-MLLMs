@@ -53,7 +53,17 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 * [2506] SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2506.01713) [[Code🔧]](https://srpo.pages.dev/)
 * [2507] Look-Back: Implicit Visual Re-focusing in MLLM Reasoning [[Paper📑]](https://arxiv.org/pdf/2507.03019) [[Code🔧]](https://github.com/PKU-YuanGroup/Look-Back)
 
---
+
+---
+
+## Agentic Mem
+
+* [2312] Empowering Working Memory for Large Language Model Agents [[Paper📑]](https://arxiv.org/pdf/2312.17259) [[Code🔧]](Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions)
+* [2502] A-Mem: Agentic Memory for LLM Agents [[Paper📑]](https://arxiv.org/pdf/2502.12110) [[Code🔧]](https://github.com/WujiangXu/A-mem)
+* [2506] A Walk to Remember: Mllm Memory-Driven Visual Navigation [[Paper📑]](https://ieeexplore.ieee.org/abstract/document/11078086)
+* [2507] Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions [[Paper📑]](https://arxiv.org/pdf/2507.05257) [[Code🔧]](https://github.com/HUST-AI-HYZ/MemoryAgentBench)
+
+----
 
 ## Agentic Search 
 
@@ -85,9 +95,6 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 * [2501] Visual RAG: Expanding MLLM visual knowledge without fine-tuning
 
-## Agentic Mem
-
-* [2502] A-Mem: Agentic Memory for LLM Agents [[Paper📑]](https://arxiv.org/pdf/2502.12110) [[Code🔧]](https://github.com/WujiangXu/A-mem)
 
 ---
 
