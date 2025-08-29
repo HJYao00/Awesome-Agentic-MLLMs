@@ -62,15 +62,16 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ---
 
-## Agentic Mem
+## Agentic Memory
 
 * [2312] Empowering Working Memory for Large Language Model Agents [[Paper📑]](https://arxiv.org/pdf/2312.17259) [[Code🔧]](Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions)
 * [2502] A-Mem: Agentic Memory for LLM Agents [[Paper📑]](https://arxiv.org/pdf/2502.12110) [[Code🔧]](https://github.com/WujiangXu/A-mem)
 * [2504] Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory [[Paper📑]](https://arxiv.org/abs/2504.19413) [[Code🔧]](https://mem0.ai/research)
 * [2506] A Walk to Remember: Mllm Memory-Driven Visual Navigation [[Paper📑]](https://ieeexplore.ieee.org/abstract/document/11078086)
+* [2506] MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents [[Paper📑]](https://arxiv.org/abs/2506.15841) [[Code🔧]](https://github.com/MIT-MI/MEM1)
 * [2507] Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions [[Paper📑]](https://arxiv.org/pdf/2507.05257) [[Code🔧]](https://github.com/HUST-AI-HYZ/MemoryAgentBench)
 * [2507] MemOS: A Memory OS for AI System [[Paper📑]](https://arxiv.org/abs/2507.03724) [[Code🔧]](https://github.com/MemTensor/MemOS)
-
+* [2507] MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations [[Paper📑]](https://arxiv.org/abs/2507.21428)
 
 ----
 
