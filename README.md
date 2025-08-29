@@ -72,6 +72,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 * [2507] Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions [[Paper📑]](https://arxiv.org/pdf/2507.05257) [[Code🔧]](https://github.com/HUST-AI-HYZ/MemoryAgentBench)
 * [2507] MemOS: A Memory OS for AI System [[Paper📑]](https://arxiv.org/abs/2507.03724) [[Code🔧]](https://github.com/MemTensor/MemOS)
 * [2507] MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations [[Paper📑]](https://arxiv.org/abs/2507.21428)
+* [2508] Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2508.19828)
 
 ----
 
