@@ -49,7 +49,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ## Agentic Reflection
 
-* [2410] TOOL: Towards Reflection-Aware Tool-Augmented Clinical Agents [[Paper📑]](https://arxiv.org/abs/2410.17657) [[Code🔧]](https://github.com/BlueZeros/ReflecTool)
+* [2410] ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents [[Paper📑]](https://arxiv.org/abs/2410.17657) [[Code🔧]](https://github.com/BlueZeros/ReflecTool)
 * [2411] Self-Corrected Multimodal Large Language Model for Robot Manipulation and Reflection [[Paper📑]](https://openreview.net/forum?id=TLWbNfbkxj) 
 * [2411] Vision-Language Models Can Self-Improve Reasoning via Reflection [[Paper📑]](https://arxiv.org/abs/2411.00855) [[Code🔧]](https://github.com/njucckevin/MM-Self-Improve)
 * [2412] Mulberry: Empowering mllm with o1-like reasoning and reflection via collective monte carlo tree search [[Paper📑]](https://arxiv.org/pdf/2412.18319) [[Code🔧]](https://github.com/HJYao00/Mulberry)
