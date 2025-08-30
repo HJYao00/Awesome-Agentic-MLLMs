@@ -16,7 +16,6 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
   - [Agentic code](#agentic-code)
   - [Action](#action)
   - [Framework](#framework)
-
 ---
 
 ## To be classified
@@ -42,11 +41,13 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ---
 
-## Reason
+## Agentic Reasoning
+
+* [] 
 
 ---
 
-## Reflection
+## Agentic Reflection
 
 * [2410] TOOL: Towards Reflection-Aware Tool-Augmented Clinical Agents [[Paper📑]](https://arxiv.org/abs/2410.17657) [[Code🔧]](https://github.com/BlueZeros/ReflecTool)
 * [2411] Self-Corrected Multimodal Large Language Model for Robot Manipulation and Reflection [[Paper📑]](https://openreview.net/forum?id=TLWbNfbkxj) 
@@ -132,19 +133,25 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ---
 
-
 ## GUI Agent
 
 * [] You Only Look at Screens: Multimodal Chain-of-Action Agents
 
+
+----
+
 ## Agentic GUI
 
+
+----
 
 ## VLA Action
 
 * [2508] MolmoAct: Action Reasoning Models that can Reason in Space [[Paper📑]](https://arxiv.org/abs/2508.07917)  [[Code🔧]](https://github.com/allenai/MolmoAct) [[Blog📝]](https://allenai.org/blog/molmoact)
 * [2507] ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning [[Paper📑]](https://arxiv.org/abs/2507.16815) [[Project 🌐](https://jasper0314-huang.github.io/thinkact-vla/)] 
 * [2506] VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning [[Paper📑]](https://arxiv.org/abs/2506.17221) [[Blog📝]](https://vlnr1.github.io/) [[Code🔧]](https://github.com/Qi-Zhangyang/GPT4Scene-and-VLN-R1)
+
+----
 
 ## Benchmark
 * [] Agent security bench (asb): Formalizing and benchmarking attacks and defenses in llm-based agents
