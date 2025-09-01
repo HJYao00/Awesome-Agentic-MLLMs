@@ -1,6 +1,6 @@
 # Awesome-Agentic-MLLM
 
-👏 Welcome to the Awesome-Reasoning-MLLM repository! This repository is a curated collection of the most influential papers, code, dataset, benchmarks, and resources about Reasoning in Multi-Modal Large Language Models (MLLMs) and Vision-Language Models (VLMs).
+👏 Welcome to the Awesome-Agentic-MLLM repository! This is a curated collection of influential papers, code, datasets, benchmarks, and resources exploring the emerging domain of agentic capabilities in Multi-Modal Large Language Models (MLLMs) and Vision-Language Models (VLMs).
 
 Feel free to ⭐ star and fork this repository to keep up with the latest advancements and contribute to the community.
 
@@ -13,9 +13,10 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
   - [Survey](#survey)
   - [Agentic Search](#agentic-search)
   - [Search Agent](#search-agent)
-  - [Agentic code](#agentic-code)
+  - [Agentic Code](#agentic-code)
   - [Action](#action)
   - [Framework](#framework)
+  - [Application]
 ---
 
 ## To be classified
@@ -112,7 +113,12 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ---
 
-## Agentic code
+## Code Agent
+
+
+---
+
+## Agentic Code
 * [2506] CoRT: Code-integrated Reasoning within Thinking [[Paper📑]](https://arxiv.org/abs/2506.09820) [[Code🔧]](https://github.com/ChengpengLi1003/CoRT)
 * [2506] Computational Thinking Reasoning in Large Language Models [[Paper📑]](https://arxiv.org/abs/2506.02658)
 * [2505] VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use [[Paper📑]](https://arxiv.org/abs/2505.19255) [[Code🔧]](https://github.com/VTool-R1/VTool-R1)
@@ -160,6 +166,9 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 * [2508] Dissecting Tool-Integrated Reasoning: An Empirical Study and Analysis [[Paper📑]](https://arxiv.org/pdf/2508.15754) 
 
 ----
+
+## Application
+* 
 
 ## Framework
 
