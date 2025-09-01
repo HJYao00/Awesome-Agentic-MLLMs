@@ -65,7 +65,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 ---
 
 ## Agentic Memory
-
+* [2305] MemoryBank: Enhancing Large Language Models with Long-Term Memory [[Paper📑]](https://arxiv.org/abs/2305.10250) [[Code🔧]](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)
 * [2312] Empowering Working Memory for Large Language Model Agents [[Paper📑]](https://arxiv.org/pdf/2312.17259) [[Code🔧]](Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions)
 * [2502] A-Mem: Agentic Memory for LLM Agents [[Paper📑]](https://arxiv.org/pdf/2502.12110) [[Code🔧]](https://github.com/WujiangXu/A-mem)
 * [2504] Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory [[Paper📑]](https://arxiv.org/abs/2504.19413) [[Code🔧]](https://mem0.ai/research)
@@ -77,7 +77,8 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 * [2507] MIRIX: Multi-Agent Memory System for LLM-Based Agents [[Paper📑]](https://arxiv.org/pdf/2507.07957) [[Code🔧]](https://mirix.io/)
 * [2507] Hierarchical Memory for High-Efficiency Long-Term Reasoning in LLM Agents [[Paper📑]](https://arxiv.org/abs/2507.22925)
 * [2508] Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2508.19828)
-* [2508] Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory [[Paper📑]](https://arxiv.org/abs/2508.08997)
+* [2508] Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory [[Paper📑]](https://arxiv.org/abs/2508.08997
+* [2508] MMS: Multiple Memory Systems for Enhancing the Long-term Memory of Agent [[Paper📑]](https://arxiv.org/abs/2508.15294)
 
 ----
 
