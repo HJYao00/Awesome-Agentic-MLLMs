@@ -84,6 +84,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ## Agentic Search 
 
+* [2505] VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2505.22019) [[Code🔧]](https://github.com/Alibaba-NLP/VRAG)
 * [2505] Visual Agentic Reinforcement Fine-Tuning [[Paper📑]](https://arxiv.org/abs/2505.14246) [[Code🔧]](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT)
 * [2506] MMSearch-R1: Incentivizing LMMs to Search [[Paper📑]](https://arxiv.org/abs/2506.20670) [[Code🔧]](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)
 * [2508] WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent [[Paper📑]](https://arxiv.org/abs/2508.05748) [[Code🔧]](https://github.com/Alibaba-NLP/WebAgent)
