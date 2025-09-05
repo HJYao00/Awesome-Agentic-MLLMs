@@ -186,6 +186,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 * EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework [[Code🔧]](https://github.com/hiyouga/EasyR1)
 * Simple-R1: Simple Reinforcement Learning for Reasoning [[Code🔧]](https://github.com/hkust-nlp/simpleRL-reason)
 * Light-R1: Curriculum SFT, DPO and RL for Long COT from Scratch and Beyond [[Code🔧]](https://github.com/Qihoo360/Light-R1)
+* RL2: Ray Less Reinforcement Learning [[Code🔧]](https://github.com/ChenmienTan/RL2/tree/main)
 * OAT [[Code🔧]](https://github.com/sail-sg/oat)
 * R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3 [[Code🔧]](https://github.com/StarsfieldAI/R1-V)
 * Visual-RFT: Visual Reinforcement Fine-Tuning [[Code🔧]](https://github.com/Liuziyu77/Visual-RFT)
