@@ -178,4 +178,23 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 ## Framework
 
 * verl: Volcano Engine Reinforcement Learning for LLMs [[Code🔧]](https://github.com/volcengine/verl)
+* Open R1 [[Code🔧]](https://github.com/huggingface/open-r1)
+* OpenRLHF [[Code🔧]](https://github.com/OpenRLHF/OpenRLHF)
+* Multimodal Open R1 [[Code🔧]](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)
+* RLFactory: Easy and Efficient RL Training [[Code🔧]](https://github.com/Simple-Efficient/RL-Factory)
+* Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning [[Code🔧]](https://github.com/Unakar/Logic-RL)
+* EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework [[Code🔧]](https://github.com/hiyouga/EasyR1)
+* Simple-R1: Simple Reinforcement Learning for Reasoning [[Code🔧]](https://github.com/hkust-nlp/simpleRL-reason)
+* Light-R1: Curriculum SFT, DPO and RL for Long COT from Scratch and Beyond [[Code🔧]](https://github.com/Qihoo360/Light-R1)
+* OAT: [[Code🔧]](https://github.com/sail-sg/oat)
+* R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3 [[Code🔧]](https://github.com/StarsfieldAI/R1-V)
+* Visual-RFT: Visual Reinforcement Fine-Tuning [[Code🔧]](https://github.com/Liuziyu77/Visual-RFT)
+* rLLM (DeepScaleR): Reinforcement Learning for Language Agents [[Code🔧]](https://github.com/rllm-org/rllm)
+* Search-R1: Train your LLMs to reason and call a search engine with reinforcement learning [[Code🔧]](https://github.com/PeterGriffinJin/Search-R1)
+* Multimodal-Search-R1: Incentivizing LMMs to Search [[Code🔧]](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)
+* Agent Lightning [[Code🔧]](https://github.com/microsoft/agent-lightning)
+* ROLL: Reinforcement Learning Optimization for Large-Scale Learning [[Code🔧]](https://github.com/alibaba/ROLL)
+* RAGEN: Training Agents by Reinforcing Reasoning [[Code🔧]](https://github.com/RAGEN-AI/RAGEN)
+* AReaL: Ant Reasoning Reinforcement Learning for LLMs [[Code🔧]](https://github.com/inclusionAI/AReaL)
+* MiroRL: An MCP-first Reinforcement Learning Framework for Deep Research Agent [[Code🔧]](https://github.com/MiroMindAI/MiroRL)
 
