@@ -198,6 +198,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 * ROLL: Reinforcement Learning Optimization for Large-Scale Learning [[Code🔧]](https://github.com/alibaba/ROLL)
 * RAGEN: Training Agents by Reinforcing Reasoning [[Code🔧]](https://github.com/RAGEN-AI/RAGEN)
 * MARTI: A Framework for LLM-based Multi-Agent Reinforced Training and Inference [[Code🔧]](https://github.com/TsinghuaC3I/MARTI)
+* SkyRL: A Modular Full-stack RL Library for LLMs [[Code🔧]](https://github.com/NovaSky-AI/SkyRL)
 * AReaL: Ant Reasoning Reinforcement Learning for LLMs [[Code🔧]](https://github.com/inclusionAI/AReaL)
 * MiroRL: An MCP-first Reinforcement Learning Framework for Deep Research Agent [[Code🔧]](https://github.com/MiroMindAI/MiroRL)
 * AgentFly: Training scalable LLM agents with RL [[Code🔧]](https://github.com/Agent-One-Lab/AgentFly)
