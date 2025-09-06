@@ -44,7 +44,8 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ## Agentic Reasoning
 
-* [] 
+* [2506] GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal Reasoning [[Paper📑]](https://arxiv.org/pdf/2506.16141) [[Code🔧]](https://github.com/TencentARC/GRPO-CARE)
+
 
 ---
 
