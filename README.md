@@ -198,28 +198,37 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ---
 
-## Code Agent
+### Agentic Code
+
+| Date |  Title | Paper | Code |
+|:-:|:-:|:-|:-:|
+| 2504 | ReTool: Reinforcement Learning for Strategic Tool Use in LLMs | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2504.11536) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/ReTool-RL/ReTool) |
+
+| 2506 | CoRT: Code-integrated Reasoning within Thinking | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2506.09820) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/ChengpengLi1003/CoRT) |
 
 
----
 
-## Agentic Code
-* [2506] CoRT: Code-integrated Reasoning within Thinking [[Paper📑]](https://arxiv.org/abs/2506.09820) [[Code🔧]](https://github.com/ChengpengLi1003/CoRT)
+
+### Agentic Data Process
+| Date |  Title | Paper | Code |
+|:-:|:-:|:-|:-:|
+
+| 2505 | DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.14362) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Visual-Agent/DeepEyes) |
+| 2505 | VLM-R3: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.16192) | - |
+| 2505 | Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.21457) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/aim-uofa/Active-o3) |
+| 2505 | OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.08617) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/zhaochen0110/OpenThinkIMG) |
+| 2505 | Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.15436) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/xtong-zhang/Chain-of-Focus) |
+| 2505 | Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.15966) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/TIGER-AI-Lab/Pixel-Reasoner) |
+
+
 * [2506] Computational Thinking Reasoning in Large Language Models [[Paper📑]](https://arxiv.org/abs/2506.02658)
 * [2505] VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use [[Paper📑]](https://arxiv.org/abs/2505.19255) [[Code🔧]](https://github.com/VTool-R1/VTool-R1)
 * [2505] Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2505.16410) [[Code🔧]](https://github.com/dongguanting/Tool-Star)
-* [2504] ReTool: Reinforcement Learning for Strategic Tool Use in LLMs [[Paper📑]](https://arxiv.org/abs/2504.11536) [[Code🔧]](https://github.com/ReTool-RL/ReTool)
 * [2504] SQL-R1: Training Natural Language to SQL Reasoning Model By Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2504.08600) [[Code🔧]](https://github.com/DataArcTech/SQL-R1) 
 * [2505] Visual Agentic Reinforcement Fine-Tuning [[Paper📑]](https://arxiv.org/abs/2505.14246) [[Code🔧]](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT)
 * [2506] ComfyUI-R1: Exploring Reasoning Models for Workflow Generation [[Paper📑]](https://arxiv.org/abs/2506.09790) [[Code🔧]](https://github.com/AIDC-AI/ComfyUI-Copilot)
 * [2508] Thyme: Think Beyond Images [[Paper📑]](https://arxiv.org/pdf/2508.11630) [[Code🔧]](https://github.com/yfzhang114/Thyme)
-* [2505] OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2505.08617) [[Code🔧]](https://github.com/zhaochen0110/OpenThinkIMG)
-* [2505] DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2505.14362) [[Code🔧]](https://github.com/Visual-Agent/DeepEyes)
-* [2505] Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL [[Paper📑]](https://arxiv.org/abs/2505.15436) [[Code🔧]](https://github.com/xtong-zhang/Chain-of-Focus)
-* [2505] Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2505.15966) [[Code🔧]](https://github.com/TIGER-AI-Lab/Pixel-Reasoner)
-* [2505] Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO [[Paper📑]](https://arxiv.org/abs/2505.21457) [[Code🔧]](https://github.com/aim-uofa/Active-o3)
 * [2506] VGR: Visual Grounded Reasoning [[Paper📑]](https://arxiv.org/abs/2506.11991) 
-* [2505] VLM-R3: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought [[Paper📑]](https://arxiv.org/abs/2505.16192) 
 * [2505] ARGUS: Vision-Centric Reasoning with Grounded Chain-of-Thought [[Paper📑]](https://arxiv.org/abs/2505.23766) 
 * [2505] Ground-R1: Incentivizing Grounded Visual Reasoning via Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2505.20272) [[Code🔧]](https://github.com/zzzhhzzz/Ground-R1)
 * [2506] Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing [[Paper📑]](https://arxiv.org/abs/2506.09965) [[Code🔧]](https://github.com/AntResearchNLP/ViLaSR)
