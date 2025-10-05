@@ -58,10 +58,12 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 | Date |  Title | Paper | Code |
 |:-:|:-:|:-|:-:|
 | 2502 | Qwen2.5-VL Technical Report | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2502.13923) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://huggingface.co/collections/Qwen/qwen25-vl-6795ffac22b334a837c0f9a5) |
+| 2502 | SmolVLM2: Bringing Video Understanding to Every Device | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://huggingface.co/blog/smolvlm2) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://huggingface.co/HuggingFaceTB/SmolVLM2-2.2B-Instruct) |
+| 2506 | MiMo-VL Technical Report | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2506.03569) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/XiaomiMiMo/MiMo-VL) |
 | 2507 | Kwai Keye-VL Technical Report | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2507.01949) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Kwai-Keye/Keye) |
 | 2509 | SAIL-VL2 Technical Report | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2509.14033) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/BytedanceDouyinContent/SAIL-VL2) |
 | 2509 | LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal Training | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://www.arxiv.org/abs/2509.23661) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5) |
-
+| 2509 | MiniCPM-V 4.5 technical report | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://github.com/OpenBMB/MiniCPM-V/blob/main/docs/MiniCPM_V_4_5_Technical_Report.pdf) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/OpenBMB/MiniCPM-V) |
 
 
 ### MoE MLLMs
@@ -74,6 +76,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 | 2506 | ERNIE 4.5 Technical Report | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://yiyan.baidu.com/blog/publication/ERNIE_Technical_Report.pdf) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/PaddlePaddle/ERNIE) |
 | 2507 | Seed1.5-VL Technical Report | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.07062) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://www.volcengine.com/) |
 | 2507 | GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2507.01006) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/zai-org/GLM-V) |
+| 2507 | Step-3 is Large yet Affordable: Model-system Co-design for Cost-effective Decoding | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2507.19427) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/stepfun-ai/Step3) |
 | 2508 | InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.18265) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/OpenGVLab/InternVL) |
 
 ---
