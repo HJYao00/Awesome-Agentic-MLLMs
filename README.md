@@ -86,24 +86,21 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 | Date |  Title | Paper | Code |
 |:-:|:-:|:-|:-:|
 | 2305 | MemoryBank: Enhancing Large Language Models with Long-Term Memory | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2305.10250) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/zhongwanjun/MemoryBank-SiliconFriend) |
-| 2312 | Empowering Working Memory for Large Language Model Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2312.17259) | - |
 | 2307 | MovieChat | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2307.16449v4) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/rese1f/MovieChat) |
+| 2312 | Empowering Working Memory for Large Language Model Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2312.17259) | - |
+| 2402 | LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2402.13753) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/microsoft/LongRoPE) |
+| 2502 | A-Mem: Agentic Memory for LLM Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2502.12110) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/WujiangXu/A-mem) |
+| 2503 | In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2503.08026
+) | - |
+| 2504 | Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2504.19413) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://mem0.ai/research) |
+| 2506 | A Walk to Remember: Mllm Memory-Driven Visual Navigation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://ieeexplore.ieee.org/abstract/document/11078086) | - |
+| 2506 | MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2506.15841) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/MIT-MI/MEM1) |
+| 2507 | MemOS: A Memory OS for AI System | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2507.03724) | - |
+| 2507 | MIRIX: Multi-Agent Memory System for LLM-Based Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2507.07957) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://mirix.io/) |
+| 2508 | Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.19828) | - |
+| 2508 | Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.08997) | - |
+| 2508 | MMS: Multiple Memory Systems for Enhancing the Long-term Memory of Agent | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.15294) | - |
 
-
-* [2305] MemoryBank: Enhancing Large Language Models with Long-Term Memory [[Paper📑]](https://arxiv.org/abs/2305.10250) [[Code🔧]](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)
-* [2312] Empowering Working Memory for Large Language Model Agents [[Paper📑]](https://arxiv.org/pdf/2312.17259)
-* [2502] A-Mem: Agentic Memory for LLM Agents [[Paper📑]](https://arxiv.org/pdf/2502.12110) [[Code🔧]](https://github.com/WujiangXu/A-mem)
-* [2504] Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory [[Paper📑]](https://arxiv.org/abs/2504.19413) [[Code🔧]](https://mem0.ai/research)
-* [2506] A Walk to Remember: Mllm Memory-Driven Visual Navigation [[Paper📑]](https://ieeexplore.ieee.org/abstract/document/11078086)
-* [2506] MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents [[Paper📑]](https://arxiv.org/abs/2506.15841) [[Code🔧]](https://github.com/MIT-MI/MEM1)
-* [2507] Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions [[Paper📑]](https://arxiv.org/pdf/2507.05257) [[Code🔧]](https://github.com/HUST-AI-HYZ/MemoryAgentBench)
-* [2507] MemOS: A Memory OS for AI System [[Paper📑]](https://arxiv.org/abs/2507.03724) [[Code🔧]](https://github.com/MemTensor/MemOS)
-* [2507] MemTool: Optimizing Short-Term Memory Management for Dynamic Tool Calling in LLM Agent Multi-Turn Conversations [[Paper📑]](https://arxiv.org/abs/2507.21428)
-* [2507] MIRIX: Multi-Agent Memory System for LLM-Based Agents [[Paper📑]](https://arxiv.org/pdf/2507.07957) [[Code🔧]](https://mirix.io/)
-* [2507] Hierarchical Memory for High-Efficiency Long-Term Reasoning in LLM Agents [[Paper📑]](https://arxiv.org/abs/2507.22925)
-* [2508] Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2508.19828)
-* [2508] Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory [[Paper📑]](https://arxiv.org/abs/2508.08997
-* [2508] MMS: Multiple Memory Systems for Enhancing the Long-term Memory of Agent [[Paper📑]](https://arxiv.org/abs/2508.15294)
 
 ----
 
@@ -194,6 +191,10 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 ## Benchmark
 * [] Agent security bench (asb): Formalizing and benchmarking attacks and defenses in llm-based agents
 * [2508] Dissecting Tool-Integrated Reasoning: An Empirical Study and Analysis [[Paper📑]](https://arxiv.org/pdf/2508.15754) 
+
+| Date |  Title | Paper | Code |
+|:-:|:-:|:-|:-:|
+| 2507 | Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2507.05257) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/HUST-AI-HYZ/MemoryAgentBench) |
 
 ----
 
