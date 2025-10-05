@@ -32,8 +32,8 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 |:-:|:-:|:-|:-:|
 | 2308 | A Survey on Large Language Model based Autonomous Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2308.11432) | [![GitHub Stars](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Paitesanshi/LLM-Agent-Survey) |
 | 2402 | Large Multimodal Agents: A Survey | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2402.15116) | [![GitHub Stars](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/jun0wanan/awesome-large-multimodal-agents) |
-| 2308 | Large Multimodal Agents: A Survey | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2402.15116) | [![GitHub Stars](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/jun0wanan/awesome-large-multimodal-agents) |
 
+<!--
 * [2308] A Survey on Large Language Model based Autonomous Agents [[Paper📑]](https://arxiv.org/abs/2308.11432) [[Project📚]](https://github.com/DavidZWZ/Awesome-Deep-Research)
 * [2402] Large Multimodal Agents: A Survey [[Paper📑]](https://arxiv.org/abs/2402.15116)
 * [2501] Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG [[Paper📑]](https://arxiv.org/abs/2501.09136)
@@ -47,38 +47,49 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 * [2508] Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction [[Paper📑]](https://arxiv.org/pdf/2508.05294)
 * [2508] A Survey on Agent Workflow – Status and Future [[Paper📑]](https://arxiv.org/pdf/2508.01186)
 
----
-
-## Agentic Reasoning
-
-### Prompt-based
-
-### SFT-based
-
-### RL-based
-
-* [2506] GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal Reasoning [[Paper📑]](https://arxiv.org/pdf/2506.16141) [[Code🔧]](https://github.com/TencentARC/GRPO-CARE)
-
+-->
 
 ---
 
-## Agentic Reflection
 
-* [2410] ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents [[Paper📑]](https://arxiv.org/abs/2410.17657) [[Code🔧]](https://github.com/BlueZeros/ReflecTool)
-* [2411] Self-Corrected Multimodal Large Language Model for Robot Manipulation and Reflection [[Paper📑]](https://openreview.net/forum?id=TLWbNfbkxj) 
-* [2411] Vision-Language Models Can Self-Improve Reasoning via Reflection [[Paper📑]](https://arxiv.org/abs/2411.00855) [[Code🔧]](https://github.com/njucckevin/MM-Self-Improve)
-* [2412] Mulberry: Empowering mllm with o1-like reasoning and reflection via collective monte carlo tree search [[Paper📑]](https://arxiv.org/pdf/2412.18319) [[Code🔧]](https://github.com/HJYao00/Mulberry)
-* [2503] V-Stylist: Video Stylization via Collaboration and Reflection of MLLM Agents [[Paper📑]](https://arxiv.org/abs/2503.12077) [[Code🔧]]()
-* [2504] MASR: Self-Reflective Reasoning through Multimodal Hierarchical Attention Focusing for Agent-based Video Understanding [[Paper📑]](https://arxiv.org/abs/2504.17213)
-* [2504] VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2504.08837) [[Code🔧]](https://tiger-ai-lab.github.io/VL-Rethinker/)
-* [2505] Training-Free Reasoning and Reflection in MLLMs [[Paper📑]](https://arxiv.org/abs/2505.16151) [[Code🔧]](https://iip.whu.edu.cn/frank/index.html)
-* [2506] SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2506.01713) [[Code🔧]](https://srpo.pages.dev/)
-* [2507] Look-Back: Implicit Visual Re-focusing in MLLM Reasoning [[Paper📑]](https://arxiv.org/pdf/2507.03019) [[Code🔧]](https://github.com/PKU-YuanGroup/Look-Back)
+
+## Agentic Internal Intelligence
+
+### Agentic Reasoning
+| Date |  Title | Paper | Github |
+|:-:|:-:|:-|:-:|
+| 2506 | GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal Reasoning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2506.16141) | [![GitHub Stars](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/TencentARC/GRPO-CARE) |
+
+---
+
+### Agentic Reflection
+
+| Date |  Title | Paper | Code |
+|:-:|:-:|:-|:-:|
+| 2410 | ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2410.17657) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/BlueZeros/ReflecTool) |
+| 2411 | Self-Corrected Multimodal Large Language Model for Robot Manipulation and Reflection | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://openreview.net/forum?id=TLWbNfbkxj) | - |
+| 2411 | Vision-Language Models Can Self-Improve Reasoning via Reflection | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2411.00855) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/njucckevin/MM-Self-Improve) |
+| 2412 | Mulberry: Empowering mllm with o1-like reasoning and reflection via collective monte carlo tree search | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2412.18319) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/HJYao00/Mulberry) |
+| 2503 | V-Stylist: Video Stylization via Collaboration and Reflection of MLLM Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2503.12077) | - |
+| 2504 | MASR: Self-Reflective Reasoning through Multimodal Hierarchical Attention Focusing for Agent-based Video Understanding | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2504.17213) | - |
+| 2504 | VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2504.08837) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://tiger-ai-lab.github.io/VL-Rethinker) |
+| 2505 | Training-Free Reasoning and Reflection in MLLMs | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.16151) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://iip.whu.edu.cn/frank/index.html) |
+| 2506 | SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2506.01713) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://srpo.pages.dev/) |
+| 2507 | Look-Back: Implicit Visual Re-focusing in MLLM Reasoning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2507.03019) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/PKU-YuanGroup/Look-Back) |
+
 
 
 ---
 
-## Agentic Memory
+### Agentic Memory
+
+| Date |  Title | Paper | Code |
+|:-:|:-:|:-|:-:|
+| 2305 | MemoryBank: Enhancing Large Language Models with Long-Term Memory | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2305.10250) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/zhongwanjun/MemoryBank-SiliconFriend) |
+| 2312 | Empowering Working Memory for Large Language Model Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2312.17259) | - |
+| 2307 | MovieChat | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2307.16449v4) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/rese1f/MovieChat) |
+
+
 * [2305] MemoryBank: Enhancing Large Language Models with Long-Term Memory [[Paper📑]](https://arxiv.org/abs/2305.10250) [[Code🔧]](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)
 * [2312] Empowering Working Memory for Large Language Model Agents [[Paper📑]](https://arxiv.org/pdf/2312.17259)
 * [2502] A-Mem: Agentic Memory for LLM Agents [[Paper📑]](https://arxiv.org/pdf/2502.12110) [[Code🔧]](https://github.com/WujiangXu/A-mem)
