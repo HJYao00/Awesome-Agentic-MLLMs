@@ -26,7 +26,14 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 ---
 
 
+
 ## Survey
+| Date |  Title | Paper | Github |
+|:-:|:-:|:-|:-:|
+| 2308 | A Survey on Large Language Model based Autonomous Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2308.11432) | [![GitHub Stars](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Paitesanshi/LLM-Agent-Survey) |
+| 2402 | Large Multimodal Agents: A Survey | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2402.15116) | [![GitHub Stars](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/jun0wanan/awesome-large-multimodal-agents) |
+| 2308 | Large Multimodal Agents: A Survey | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2402.15116) | [![GitHub Stars](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/jun0wanan/awesome-large-multimodal-agents) |
+
 * [2308] A Survey on Large Language Model based Autonomous Agents [[Paper📑]](https://arxiv.org/abs/2308.11432) [[Project📚]](https://github.com/DavidZWZ/Awesome-Deep-Research)
 * [2402] Large Multimodal Agents: A Survey [[Paper📑]](https://arxiv.org/abs/2402.15116)
 * [2501] Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG [[Paper📑]](https://arxiv.org/abs/2501.09136)
