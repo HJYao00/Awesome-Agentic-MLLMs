@@ -30,8 +30,8 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 ## Survey
 | Date |  Title | Paper | Github |
 |:-:|:-:|:-|:-:|
-| 2308 | A Survey on Large Language Model based Autonomous Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2308.11432) | [![GitHub Stars](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Paitesanshi/LLM-Agent-Survey) |
-| 2402 | Large Multimodal Agents: A Survey | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2402.15116) | [![GitHub Stars](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/jun0wanan/awesome-large-multimodal-agents) |
+| 2308 | A Survey on Large Language Model based Autonomous Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2308.11432) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Paitesanshi/LLM-Agent-Survey) |
+| 2402 | Large Multimodal Agents: A Survey | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2402.15116) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/jun0wanan/awesome-large-multimodal-agents) |
 
 <!--
 * [2308] A Survey on Large Language Model based Autonomous Agents [[Paper📑]](https://arxiv.org/abs/2308.11432) [[Project📚]](https://github.com/DavidZWZ/Awesome-Deep-Research)
@@ -52,13 +52,57 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 ---
 
 
+## Foundational MLLMs
+
+### Dense MLLMs
+| Date |  Title | Paper | Code |
+|:-:|:-:|:-|:-:|
+| 2502 | Qwen2.5-VL Technical Report | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2502.13923) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://huggingface.co/collections/Qwen/qwen25-vl-6795ffac22b334a837c0f9a5) |
+| 2507 | Kwai Keye-VL Technical Report | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2507.01949) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Kwai-Keye/Keye) |
+| 2509 | SAIL-VL2 Technical Report | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2509.14033) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/BytedanceDouyinContent/SAIL-VL2) |
+| 2509 | LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal Training | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://www.arxiv.org/abs/2509.23661) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5) |
+
+
+
+### MoE MLLMs
+| Date |  Title | Paper | Code |
+|:-:|:-:|:-|:-:|
+| 2509 | Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action | [![Paper](https://img.shields.io/badge/blog-A42C25?style=for-the-badge)](https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/QwenLM/Qwen3-VL) |
+| 2503 | Kimi-VL Technical Report | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2504.07491) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/MoonshotAI/Kimi-VL) |
+
+| 2507 | Seed1.5-VL Technical Report | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.07062) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://www.volcengine.com/) |
+| 2507 | GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2507.01006) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/zai-org/GLM-V) |
+| 2508 | InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.18265) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/OpenGVLab/InternVL) |
+
+---
+
 
 ## Agentic Internal Intelligence
 
 ### Agentic Reasoning
 | Date |  Title | Paper | Github |
 |:-:|:-:|:-|:-:|
-| 2506 | GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal Reasoning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2506.16141) | [![GitHub Stars](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/TencentARC/GRPO-CARE) |
+| 2410 | Improve Vision Language Model Chain-of-thought Reasoning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2410.16198) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/RifleZhang/LLaVA-Reasoner-DPO?tab=readme-ov-file) |
+| 2411 | LLaVA-CoT: Let Vision Language Models Reason Step-by-Step | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2411.10440) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/PKU-YuanGroup/LLaVA-CoT) |
+| 2412 | Mulberry: Empowering MLLM with o1-like Reasoning and Reflection via Collective Monte Carlo Tree Search | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2412.18319) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/HJYao00/Mulberry) |
+| 2503 | Vision-R1: Incentivizing Reasoning Capability in Multimodal Large Language Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2503.06749) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Osilly/Vision-R1) |
+| 2503 | R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2503.12937) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/jingyi0000/R1-VL) |
+| 2503 | MM-Eureka: Exploring the Frontiers of Multimodal Reasoning with Rule-based Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2503.07365) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/ModalMinds/MM-EUREKA) |
+| 2503 | Video-R1: Reinforcing Video Reasoning in MLLMs | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2503.21776) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/tulerfeng/Video-R1) |
+| 2504 | SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2504.07934) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/si0wang/ThinkLite-VL) |
+| 2504 | NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2504.13055) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/NUS-TRAIL/NoisyRollout) |
+| 2504 | Skywork R1V2: Multimodal Hybrid Reinforcement Learning for Reasoning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2504.16656) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://huggingface.co/Skywork/Skywork-R1V2-38B) |
+| 2504 | VLM-R1: A Stable and Generalizable R1-style Large Vision-Language Model | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2504.07615) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/om-ai-lab/VLM-R1) |
+| 2505 | SophiaVL-R1: Reinforcing MLLMs Reasoning with Thinking Reward | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.17018) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/kxfan2002/SophiaVL-R1) |
+| 2505 | R1-ShareVL: Incentivizing Reasoning Capability of Multimodal Large Language Models via Share-GRPO | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.16673) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/HJYao00/R1-ShareVL) |
+| 2505 | EchoInk-R1: Exploring Audio-Visual Reasoning in Multimodal LLMs via Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.04623) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/HarryHsing/EchoInk) |
+| 2505 | Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.23091) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://huggingface.co/InfiX-ai/Infi-MMR-3B) |
+| 2506 | GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal Reasoning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2506.16141) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/TencentARC/GRPO-CARE) |
+| 2506 | WeThink: Toward General-purpose Vision-Language Reasoning via Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2506.07905) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/yangjie-cv/WeThink) |
+| 2507 | Scaling RL to Long Videos | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2507.07966) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://huggingface.co/Efficient-Large-Model/LongVILA-R1-7B) |
+| 2507 | VL-Cogito: Progressive Curriculum Reinforcement Learning for Advanced Multimodal Reasoning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2507.22607) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/alibaba-damo-academy/VL-Cogito) |
+
+
 
 ---
 
@@ -90,8 +134,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 | 2312 | Empowering Working Memory for Large Language Model Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2312.17259) | - |
 | 2402 | LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2402.13753) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/microsoft/LongRoPE) |
 | 2502 | A-Mem: Agentic Memory for LLM Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2502.12110) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/WujiangXu/A-mem) |
-| 2503 | In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2503.08026
-) | - |
+| 2503 | In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2503.08026) | - |
 | 2504 | Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2504.19413) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://mem0.ai/research) |
 | 2506 | A Walk to Remember: Mllm Memory-Driven Visual Navigation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://ieeexplore.ieee.org/abstract/document/11078086) | - |
 | 2506 | MEM1: Learning to Synergize Memory and Reasoning for Efficient Long-Horizon Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2506.15841) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/MIT-MI/MEM1) |
@@ -104,14 +147,24 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ----
 
-## Agentic Search 
+## Agentic External Tool Invocation
 
+### Agentic Search 
+
+| Date |  Title | Paper | Code |
+|:-:|:-:|:-|:-:|
+| 2505 | VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.22019) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Alibaba-NLP/VRAG) |
+| 2505 | Visual Agentic Reinforcement Fine-Tuning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.14246) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT) |
+| 2506 | MMSearch-R1: Incentivizing LMMs to Search | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2506.20670) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1) |
+| 2508 | WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.05748) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Alibaba-NLP/WebAgent) |
+
+<!--
 * [2505] VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2505.22019) [[Code🔧]](https://github.com/Alibaba-NLP/VRAG)
 * [2505] Visual Agentic Reinforcement Fine-Tuning [[Paper📑]](https://arxiv.org/abs/2505.14246) [[Code🔧]](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT)
 * [2506] MMSearch-R1: Incentivizing LMMs to Search [[Paper📑]](https://arxiv.org/abs/2506.20670) [[Code🔧]](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)
 * [2508] WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent [[Paper📑]](https://arxiv.org/abs/2508.05748) [[Code🔧]](https://github.com/Alibaba-NLP/WebAgent)
 * [2508] MiroMind Open Deep Research [[Blog📝]](https://miromind.ai/blog/miromind-open-deep-research)
-<!-- text-->
+
 * [2502] Introducing deep research [[Blog📝]](https://openai.com/index/introducing-deep-research/)
 * [2507] WebSailor: Navigating Super-human Reasoning for Web Agent [[Paper📑]](https://arxiv.org/abs/2507.02592) [[Code🔧]](https://github.com/Alibaba-NLP/WebAgent)
 * [2508] Introducing gpt-oss [[Blog📝]](https://cdn.openai.com/pdf/419b6906-9da6-406c-a19d-1bb078ac7637/oai_gpt-oss_model_card.pdf) [[Code🔧]](https://github.com/openai/gpt-oss)
@@ -136,7 +189,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 * [2411] AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations [[Paper📑]](https://arxiv.org/abs/2411.13451)
 
 * [2501] Visual RAG: Expanding MLLM visual knowledge without fine-tuning
-
+-->
 
 ---
 
