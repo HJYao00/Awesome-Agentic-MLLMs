@@ -241,19 +241,15 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 | Date |  Title | Paper | Code |
 |:-:|:-:|:-|:-:|
+| 2411 | ShowUI: One Vision-Language-Action Model for GUI Visual Agent | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2411.17465) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/showlab/ShowUI) |
 | 2501 | UI-TARS: Pioneering Automated GUI Interaction with Native Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2501.12326) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/bytedance/UI-TARS) |
-
 | 2503 | UI-R1: Enhancing Efficient Action Prediction of GUI Agents by Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2503.21620) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/lll6gg/UI-R1) |
+| 2504 | TongUI: Building Generalized GUI Agents by Learning from Multimodal Web Tutorials | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2504.12679) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://tongui-agent.github.io/) |
 | 2504 | GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2504.10458) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/ritzz-ai/GUI-R1) |
 | 2504 | InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](arxiv.org/abs/2504.14239) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/InfiXAI/InfiGUI-R1) |
-
-
 | 2505 | WebAgent-R1: Training Web Agents via End-to-End Multi-Turn Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.16421) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/weizhepei/WebAgent-R1) |
-
 | 2506 | GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2506.08012) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://penghao-wu.github.io/GUI_Reflection/) |
-
 | 2509 | InfraMind: A Novel Exploration-based GUI Agentic Framework for Mission-critical Industrial Management | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2509.13704) | - |
-
 | 2509 | UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2509.02544) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/bytedance/ui-tars) |
 
 
@@ -263,15 +259,19 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 | Date |  Title | Paper | Code |
 |:-:|:-:|:-|:-:|
+| 2406 | OpenVLA: An Open-Source Vision-Language-Action Model | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2406.09246) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://openvla.github.io/) |
 
-OpenVLA: An Open-Source Vision-Language-Action Model
+| 2505 | ManipLVM-R1: Reinforcement Learning for Reasoning in Embodied Manipulation with Large Vision-Language Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.16517) | - |
+| 2506 | Unleashing Embodied Task Planning Ability in LLMs via Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2506.23127) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/OpenMOSS/Embodied-Planner-R1) |
 
 | 2506 | VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2506.17221) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Qi-Zhangyang/GPT4Scene-and-VLN-R1) |
 
 | 2507 | ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2507.16815) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://jasper0314-huang.github.io/thinkact-vla/) |
+| 2508 | Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.13998) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/pickxiguapi/Embodied-R1) |
 
 | 2508 | MolmoAct: Action Reasoning Models that can Reason in Space | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.07917) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/allenai/MolmoAct) |
 | 2508 | EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.21112) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://eo-robotics.ai/eo-1) |
+| 2509 | Nav-R1: Reasoning and Navigation in Embodied Scenes | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://www.arxiv.org/abs/2509.10884) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/AIGeeksGroup/Nav-R1) |
 
 | 2509 | Wall-x: Igniting VLMs toward the Embodied Space | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2509.11766) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/X-Square-Robot/wall-x) |
 
