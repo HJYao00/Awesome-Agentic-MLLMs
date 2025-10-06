@@ -21,8 +21,10 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
     - [Agentic Code](#agentic-code)
     - [Agentic Data Process](#agentic-data-process)
   - [Agentic Training Framework](#agentic-training-framework)
+  <!--
   - [Agentic Training Dataset](#agentic-training-dataset)
   - [Agentic Evaluation Benchmark](#agentic-evaluation-benchmark)
+  -->
 ---
 
 
@@ -329,11 +331,16 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 -->
 
 
+<!--
+
 ---
 ## Agentic Training Dataset
 
+###
 | Title | Code |
 |:-:|:-|
+| 2509 | Wall-x: Igniting VLMs toward the Embodied Space | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2509.11766) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/X-Square-Robot/wall-x) |
+
 
 ---
 
@@ -341,3 +348,5 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 | Title | Code |
 |:-:|:-|
+| 2509 | Wall-x: Igniting VLMs toward the Embodied Space | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2509.11766) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/X-Square-Robot/wall-x) |
+-->
