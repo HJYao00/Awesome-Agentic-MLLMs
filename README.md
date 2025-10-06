@@ -4,38 +4,41 @@
 
 Feel free to ⭐ star and fork this repository to keep up with the latest advancements and contribute to the community.
 
+---
 
 ## 📒 Table of Contents
 
 - [Awesome-Agentic-MLLM](#awesome-agentic-mllm)
   - [📒 Table of Contents](#-table-of-contents)
-  - [Foundational MLLMs](#foundational-mllms)
-    - [Dense MLLMs](#dense-mllms)
-    - [MoE MLLMs](#moe-mllms)
-  - [Agentic Internal Intelligence](#agentic-internal-intelligence)
-    - [Agentic Reasoning](#agentic-reasoning)
-    - [Agentic Reflection](#agentic-reflection)
-    - [Agentic Memory](#agentic-memory)
-  - [Agentic External Tool Invocation](#agentic-external-tool-invocation)
-    - [Agentic Search](#agentic-search)
-    - [Agentic Code](#agentic-code)
-    - [Agentic Data Process](#agentic-data-process)
-  - [Agentic Training Framework](#agentic-training-framework)
-  <!--
-  - [Agentic Training Dataset](#agentic-training-dataset)
-  - [Agentic Evaluation Benchmark](#agentic-evaluation-benchmark)
-  -->
+  - [📄 Paper List](#-paper-list)
+    - [Foundational MLLMs](#foundational-mllms)
+      - [Dense MLLMs](#dense-mllms)
+      - [MoE MLLMs](#moe-mllms)
+    - [Agentic Internal Intelligence](#agentic-internal-intelligence)
+      - [Agentic Reasoning](#agentic-reasoning)
+      - [Agentic Reflection](#agentic-reflection)
+      - [Agentic Memory](#agentic-memory)
+    - [Agentic External Tool Invocation](#agentic-external-tool-invocation)
+      - [Agentic Search](#agentic-search)
+      - [Agentic Code](#agentic-code)
+      - [Agentic Data Process](#agentic-data-process)
+    - [Agentic Training Framework](#agentic-training-framework)
+    <!--
+    - [Agentic Training Dataset](#agentic-training-dataset)
+    - [Agentic Evaluation Benchmark](#agentic-evaluation-benchmark)
+    -->
 ---
 
 
+## 📄 Paper List
 
+<!--
 ## Survey
 | Date |  Title | Paper | Github |
 |:-:|:-:|:-|:-:|
 | 2308 | A Survey on Large Language Model based Autonomous Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2308.11432) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Paitesanshi/LLM-Agent-Survey) |
 | 2402 | Large Multimodal Agents: A Survey | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2402.15116) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/jun0wanan/awesome-large-multimodal-agents) |
 
-<!--
 * [2308] A Survey on Large Language Model based Autonomous Agents [[Paper📑]](https://arxiv.org/abs/2308.11432) [[Project📚]](https://github.com/DavidZWZ/Awesome-Deep-Research)
 * [2402] Large Multimodal Agents: A Survey [[Paper📑]](https://arxiv.org/abs/2402.15116)
 * [2501] Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG [[Paper📑]](https://arxiv.org/abs/2501.09136)
@@ -54,9 +57,9 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 ---
 
 
-## Foundational MLLMs
+### Foundational MLLMs
 
-### Dense MLLMs
+#### Dense MLLMs
 | Date |  Title | Paper | Code |
 |:-:|:-:|:-|:-:|
 | 2502 | Qwen2.5-VL Technical Report | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2502.13923) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://huggingface.co/collections/Qwen/qwen25-vl-6795ffac22b334a837c0f9a5) |
@@ -68,7 +71,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 | 2509 | MiniCPM-V 4.5 technical report | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://github.com/OpenBMB/MiniCPM-V/blob/main/docs/MiniCPM_V_4_5_Technical_Report.pdf) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/OpenBMB/MiniCPM-V) |
 
 
-### MoE MLLMs
+#### MoE MLLMs
 | Date |  Title | Paper | Code |
 |:-:|:-:|:-|:-:|
 | 2509 | Qwen3-VL: Sharper Vision, Deeper Thought, Broader Action | [![Paper](https://img.shields.io/badge/blog-A42C25?style=for-the-badge)](https://qwen.ai/blog?id=99f0335c4ad9ff6153e517418d48535ab6d8afef&from=research.latest-advancements-list) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/QwenLM/Qwen3-VL) |
@@ -84,9 +87,9 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 ---
 
 
-## Agentic Internal Intelligence
+### Agentic Internal Intelligence
 
-### Agentic Reasoning
+#### Agentic Reasoning
 | Date |  Title | Paper | Github |
 |:-:|:-:|:-|:-:|
 | 2410 | Improve Vision Language Model Chain-of-thought Reasoning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2410.16198) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/RifleZhang/LLaVA-Reasoner-DPO?tab=readme-ov-file) |
@@ -113,7 +116,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ---
 
-### Agentic Reflection
+#### Agentic Reflection
 
 | Date |  Title | Paper | Code |
 |:-:|:-:|:-|:-:|
@@ -132,7 +135,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ---
 
-### Agentic Memory
+#### Agentic Memory
 
 | Date |  Title | Paper | Code |
 |:-:|:-:|:-|:-:|
@@ -154,9 +157,9 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ----
 
-## Agentic External Tool Invocation
+### Agentic External Tool Invocation
 
-### Agentic Search 
+#### Agentic Search 
 
 | Date |  Title | Paper | Code |
 |:-:|:-:|:-|:-:|
@@ -200,7 +203,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ---
 
-### Agentic Code
+#### Agentic Code
 
 | Date |  Title | Paper | Code |
 |:-:|:-:|:-|:-:|
@@ -213,7 +216,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 | 2508 | Posterior-GRPO: Rewarding Reasoning Processes in Code Generation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.05170) | - |
 
 
-### Agentic Data Process
+#### Agentic Data Process
 | Date |  Title | Paper | Code |
 |:-:|:-:|:-|:-:|
 | 2505 | DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.14362) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Visual-Agent/DeepEyes) |
@@ -241,9 +244,9 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ---
 
-## Agentic Enviromental Interaction
+### Agentic Enviromental Interaction
 
-### Agentic Virtual Interaction
+#### Agentic Virtual Interaction
 
 | Date |  Title | Paper | Code |
 |:-:|:-:|:-|:-:|
@@ -261,7 +264,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ---
 
-### Agentic Physical Interaction
+#### Agentic Physical Interaction
 
 | Date |  Title | Paper | Code |
 |:-:|:-:|:-|:-:|
@@ -279,9 +282,9 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ---
 
-## Agentic Training Framework
+### Agentic Training Framework
 
-### Agentic CPT/SFT
+#### Agentic CPT/SFT
 | Title | Code |
 |:-:|:-|
 | LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/hiyouga/LLaMA-Factory) |
@@ -289,7 +292,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 | Unsloth | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/unslothai/unsloth) |
 
 
-### Agentic RL
+#### Agentic RL
 
 | Title | Code |
 |:-:|:-|
@@ -334,9 +337,9 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 <!--
 
 ---
-## Agentic Training Dataset
+### Agentic Training Dataset
 
-###
+####
 | Title | Code |
 |:-:|:-|
 | 2509 | Wall-x: Igniting VLMs toward the Embodied Space | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2509.11766) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/X-Square-Robot/wall-x) |
@@ -344,7 +347,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 ---
 
-## Agentic Evaluation Benchmark
+### Agentic Evaluation Benchmark
 
 | Title | Code |
 |:-:|:-|
