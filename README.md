@@ -9,10 +9,11 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 - [Awesome-Agentic-MLLM](#awesome-agentic-mllm)
   - [📒 Table of Contents](#-table-of-contents)
-  - [To be classified](#to-be-classified)
-  - [Survey](#survey)
-  - [Agentic Search](#agentic-search)
-  - [Search Agent](#search-agent)
+  - [Foundational MLLMs](#foundational-mllms)
+    - [Dense MLLMs](#dense-mllms)
+    - [MoE MLLMs](#moe-mllms)
+  - [Agentic Internal Intelligence](#agentic-internal-intelligence)
+    - [Agentic Reasoning](#agentic-reasoning)
   - [Agentic Code](#agentic-code)
   - [Action](#action)
   - [Framework](#framework)
@@ -288,7 +289,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 | verl: Volcano Engine Reinforcement Learning for LLMs | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/volcengine/verl) |
 | rLLM (DeepScaleR): Reinforcement Learning for Language Agents | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/rllm-org/rllm) |
 | RLFactory: Easy and Efficient RL Training | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Simple-Efficient/RL-Factory) |
-| ROLL: Reinforcement Learning Optimization for Large-Scale Learning | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)]([)](https://github.com/alibaba/ROLL) |
+| ROLL: Reinforcement Learning Optimization for Large-Scale Learning | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/alibaba/ROLL) |
 | RAGEN: Training Agents by Reinforcing Reasoning | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/RAGEN-AI/RAGEN) |
 | SkyRL: A Modular Full-stack RL Library for LLMs | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/NovaSky-AI/SkyRL) |
 | Search-R1: Train your LLMs to reason and call a search engine with reinforcement learning  | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/PeterGriffinJin/Search-R1) |
