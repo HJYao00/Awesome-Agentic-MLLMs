@@ -19,12 +19,6 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
   - [Application]
 ---
 
-## To be classified
-* PyVision: Agentic Vision with Dynamic Tooling
-* VisualToolAgent (VisTA): A Reinforcement Learning Framework for Visual Tool Selection
-* Agentic Reasoning: A Streamlined Framework for Enhancing LLM Reasoning with Agentic Tools (prompt-based)
----
-
 
 
 ## Survey
@@ -206,6 +200,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 | 2504 | ReTool: Reinforcement Learning for Strategic Tool Use in LLMs | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2504.11536) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/ReTool-RL/ReTool) |
 | 2505 | R1-Code-Interpreter: LLMs Reason with Code via Supervised and Multi-stage Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.21668) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/yongchao98/R1-Code-Interpreter) |
 | 2506 | CoRT: Code-integrated Reasoning within Thinking | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2506.09820) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/ChengpengLi1003/CoRT) |
+| 2507 | PyVision: Agentic Vision with Dynamic Tooling | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2507.07998) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/agents-x-project/PyVision) |
 | 2508 | rStar2-Agent: Agentic Reasoning Technical Report | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.20722) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/microsoft/rStar) |
 | 2508 | Posterior-GRPO: Rewarding Reasoning Processes in Code Generation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.05170) | - |
 
@@ -221,6 +216,8 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 | 2505 | Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.15966) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/TIGER-AI-Lab/Pixel-Reasoner) |
 | 2509 | Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2509.07969) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://mini-o3.github.io/) |
 
+
+<!--
 * [2506] Computational Thinking Reasoning in Large Language Models [[Paper📑]](https://arxiv.org/abs/2506.02658)
 * [2505] VTool-R1: VLMs Learn to Think with Images via Reinforcement Learning on Multimodal Tool Use [[Paper📑]](https://arxiv.org/abs/2505.19255) [[Code🔧]](https://github.com/VTool-R1/VTool-R1)
 * [2505] Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2505.16410) [[Code🔧]](https://github.com/dongguanting/Tool-Star)
@@ -232,6 +229,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 * [2505] ARGUS: Vision-Centric Reasoning with Grounded Chain-of-Thought [[Paper📑]](https://arxiv.org/abs/2505.23766) 
 * [2505] Ground-R1: Incentivizing Grounded Visual Reasoning via Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2505.20272) [[Code🔧]](https://github.com/zzzhhzzz/Ground-R1)
 * [2506] Reinforcing Spatial Reasoning in Vision-Language Models with Interwoven Thinking and Visual Drawing [[Paper📑]](https://arxiv.org/abs/2506.09965) [[Code🔧]](https://github.com/AntResearchNLP/ViLaSR)
+-->
 
 ---
 
@@ -260,19 +258,14 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 | Date |  Title | Paper | Code |
 |:-:|:-:|:-|:-:|
 | 2406 | OpenVLA: An Open-Source Vision-Language-Action Model | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2406.09246) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://openvla.github.io/) |
-
 | 2505 | ManipLVM-R1: Reinforcement Learning for Reasoning in Embodied Manipulation with Large Vision-Language Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.16517) | - |
 | 2506 | Unleashing Embodied Task Planning Ability in LLMs via Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2506.23127) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/OpenMOSS/Embodied-Planner-R1) |
-
 | 2506 | VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2506.17221) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Qi-Zhangyang/GPT4Scene-and-VLN-R1) |
-
 | 2507 | ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2507.16815) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://jasper0314-huang.github.io/thinkact-vla/) |
 | 2508 | Embodied-R1: Reinforced Embodied Reasoning for General Robotic Manipulation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.13998) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/pickxiguapi/Embodied-R1) |
-
 | 2508 | MolmoAct: Action Reasoning Models that can Reason in Space | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.07917) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/allenai/MolmoAct) |
 | 2508 | EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.21112) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://eo-robotics.ai/eo-1) |
 | 2509 | Nav-R1: Reasoning and Navigation in Embodied Scenes | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://www.arxiv.org/abs/2509.10884) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/AIGeeksGroup/Nav-R1) |
-
 | 2509 | Wall-x: Igniting VLMs toward the Embodied Space | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2509.11766) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/X-Square-Robot/wall-x) |
 
 
@@ -285,7 +278,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 |:-:|:-|
 | LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/hiyouga/LLaMA-Factory) |
 | ms-swift: SWIFT (Scalable lightWeight Infrastructure for Fine-Tuning) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/modelscope/ms-swift) |
-
+| Unsloth | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/unslothai/unsloth) |
 
 
 ### Agentic RL
@@ -294,11 +287,17 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 |:-:|:-|
 | verl: Volcano Engine Reinforcement Learning for LLMs | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/volcengine/verl) |
 | rLLM (DeepScaleR): Reinforcement Learning for Language Agents | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/rllm-org/rllm) |
+| RLFactory: Easy and Efficient RL Training | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Simple-Efficient/RL-Factory) |
+| ROLL: Reinforcement Learning Optimization for Large-Scale Learning | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)]([)](https://github.com/alibaba/ROLL) |
+| RAGEN: Training Agents by Reinforcing Reasoning | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/RAGEN-AI/RAGEN) |
+| SkyRL: A Modular Full-stack RL Library for LLMs | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/NovaSky-AI/SkyRL) |
+| Search-R1: Train your LLMs to reason and call a search engine with reinforcement learning  | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/PeterGriffinJin/Search-R1) |
+| Multimodal-Search-R1: Incentivizing LMMs to Search | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1) |
+| Visual Agentic Reinforcement Fine-Tuning | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT) |
 
 
 
-
-* verl: Volcano Engine Reinforcement Learning for LLMs [[Code🔧]](https://github.com/volcengine/verl)
+<!--
 * TRL: Transformer Reinforcement Learning [[Code🔧]](https://github.com/huggingface/trl)
 * Open R1 [[Code🔧]](https://github.com/huggingface/open-r1)
 * OpenRLHF [[Code🔧]](https://github.com/OpenRLHF/OpenRLHF)
@@ -325,20 +324,4 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 * AWorld: The Agent Runtime for Self-Improvement [[Code🔧]](https://github.com/inclusionAI/AWorld/tree/main)
 
 
----
-## Agentic Training Dataset
-
-
-
----
-
-
-## Agentic Evaluation Benchmark
-* [] Agent security bench (asb): Formalizing and benchmarking attacks and defenses in llm-based agents
-* [2508] Dissecting Tool-Integrated Reasoning: An Empirical Study and Analysis [[Paper📑]](https://arxiv.org/pdf/2508.15754) 
-
-| Date |  Title | Paper | Code |
-|:-:|:-:|:-|:-:|
-| 2507 | Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2507.05257) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/HUST-AI-HYZ/MemoryAgentBench) |
-
-
+-->
