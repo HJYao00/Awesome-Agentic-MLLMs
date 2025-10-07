@@ -1,10 +1,14 @@
-# Awesome-Agentic-MLLM
+# 🤖Awesome-Agentic-MLLM
 
-👏 Welcome to the Awesome-Agentic-MLLM repository! This is a curated collection of influential papers, code, datasets, benchmarks, and resources exploring the emerging domain of agentic capabilities in Multi-Modal Large Language Models (MLLMs) and Vision-Language Models (VLMs).
+👏 Welcome to the **Awesome-Agentic-MLLM** repository!
+This curated collection features influential papers, codebases, datasets, benchmarks, and resources dedicated to exploring the emerging field of agentic capabilities in Multimodal Large Language Models.
 
-Feel free to ⭐ star and fork this repository to keep up with the latest advancements and contribute to the community.
+
+⭐ Feel free to **star** and **fork** this repository to stay updated with the latest advancements and contribute to the growing community.
 
 ---
+## 🔔 News
+- [x] **`Oct xx, 2025.`** This repository curates and maintains an updated list of papers on Awesome-Agentic-MLLM. Contributions and suggestions are warmly welcome!
 
 ## 📒 Table of Contents
 
@@ -70,6 +74,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 | 2509 | LLaVA-OneVision-1.5: Fully Open Framework for Democratized Multimodal Training | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://www.arxiv.org/abs/2509.23661) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/EvolvingLMMs-Lab/LLaVA-OneVision-1.5) |
 | 2509 | MiniCPM-V 4.5 technical report | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://github.com/OpenBMB/MiniCPM-V/blob/main/docs/MiniCPM_V_4_5_Technical_Report.pdf) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/OpenBMB/MiniCPM-V) |
 
+---
 
 #### MoE MLLMs
 | Date |  Title | Paper | Code |
