@@ -132,7 +132,6 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 | 2507 | Look-Back: Implicit Visual Re-focusing in MLLM Reasoning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2507.03019) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/PKU-YuanGroup/Look-Back) |
 
 
-
 ---
 
 #### Agentic Memory
@@ -154,7 +153,6 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 | 2508 | Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.08997) | - |
 | 2508 | MMS: Multiple Memory Systems for Enhancing the Long-term Memory of Agent | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.15294) | - |
 
-
 ----
 
 ### Agentic External Tool Invocation
@@ -163,9 +161,12 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 
 | Date |  Title | Paper | Code |
 |:-:|:-:|:-|:-:|
+| 2502 | Open AI Deep Research: Introducing deep research | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.22019) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://openai.com/index/introducing-deep-research/) |
 | 2505 | VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.22019) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Alibaba-NLP/VRAG) |
 | 2505 | Visual Agentic Reinforcement Fine-Tuning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.14246) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT) |
 | 2506 | MMSearch-R1: Incentivizing LMMs to Search | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2506.20670) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1) |
+| 2508 | Patho-AgenticRAG: Towards Multimodal Agentic Retrieval-Augmented Generation for Pathology VLMs via Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.02258) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Wenchuan-Zhang/Patho-AgenticRAG) |
+| 2508 | M2IO-R1: An Efficient RL-Enhanced Reasoning Framework for Multimodal Retrieval Augmented Multimodal Generation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.06328) | - |
 | 2508 | WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.05748) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Alibaba-NLP/WebAgent) |
 
 <!--
@@ -181,8 +182,6 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 * [2508] Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale Asynchronous RL [[Paper📑]](https://arxiv.org/abs/2508.07976) [[Code🔧]](https://github.com/inclusionAI/ASearcher?tab=readme-ov-file)
 
 ---
-
-
 
 ## Search Agent 
 
@@ -219,6 +218,10 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 #### Agentic Data Process
 | Date |  Title | Paper | Code |
 |:-:|:-:|:-|:-:|
+| 2501 | Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2501.13926) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/ZiyuGuo99/Image-Generation-CoT) |
+| 2505 | Visual Planning: Let's Think Only with Images | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.11409) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/yix8/VisualPlanning) |
+| 2505 | Delving into RL for Image Generation with CoT: A Study on DPO vs. GRPO | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.17017) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/ZiyuGuo99/Image-Generation-CoT) |
+| 2505 | GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.17022) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/gogoduan/GoT-R1) |
 | 2505 | DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.14362) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Visual-Agent/DeepEyes) |
 | 2505 | VLM-R3: Region Recognition, Reasoning, and Refinement for Enhanced Multimodal Chain-of-Thought | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.16192) | - |
 | 2505 | Active-O3: Empowering Multimodal Large Language Models with Active Perception via GRPO | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.21457) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/aim-uofa/Active-o3) |
@@ -291,6 +294,7 @@ Feel free to ⭐ star and fork this repository to keep up with the latest advanc
 | ms-swift: SWIFT (Scalable lightWeight Infrastructure for Fine-Tuning) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/modelscope/ms-swift) |
 | Unsloth | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/unslothai/unsloth) |
 
+---
 
 #### Agentic RL
 
