@@ -219,6 +219,7 @@ This curated collection features influential papers, codebases, datasets, benchm
 | 2508 | rStar2-Agent: Agentic Reasoning Technical Report | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.20722) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/microsoft/rStar) |
 | 2508 | Posterior-GRPO: Rewarding Reasoning Processes in Code Generation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.05170) | - |
 
+---
 
 #### Agentic Data Process
 | Date |  Title | Paper | Code |
