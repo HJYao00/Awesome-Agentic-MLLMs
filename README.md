@@ -1,6 +1,6 @@
 # 🤖Awesome-Agentic-MLLMs
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/zzli2022/System2-Reasoning-LLM)
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg)](https://github.com/zzli2022/System2-Reasoning-LLM)
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
 
 
