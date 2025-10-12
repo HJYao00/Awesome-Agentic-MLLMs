@@ -1,4 +1,8 @@
-# 🤖Awesome-Agentic-MLLM
+# 🤖Awesome-Agentic-MLLMs
+
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/zzli2022/System2-Reasoning-LLM)
+[![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
+
 
 👏 Welcome to the **Awesome-Agentic-MLLM** repository!
 This curated collection features influential papers, codebases, datasets, benchmarks, and resources dedicated to exploring the emerging field of agentic capabilities in Multimodal Large Language Models.
