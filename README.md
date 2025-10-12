@@ -5,7 +5,7 @@
 [![Contribution Welcome](https://img.shields.io/badge/Contribution-Welcome-blue?style=plastic&logo=discussion&logoColor=white)]()
 
 
-👏 Welcome to the **Awesome-Agentic-MLLM** repository!
+👏 Welcome to the **Awesome-Agentic-MLLMs** repository!
 This curated collection features influential papers, codebases, datasets, benchmarks, and resources dedicated to exploring the emerging field of agentic capabilities in Multimodal Large Language Models.
 
 
@@ -13,29 +13,31 @@ This curated collection features influential papers, codebases, datasets, benchm
 
 ---
 ## 🔔 News
-- [x] **`Oct xx, 2025.`** This repository curates and maintains an updated list of papers on Awesome-Agentic-MLLM. Contributions and suggestions are warmly welcome!
+- [x] **`Oct 12, 2025.`** This repository curates and maintains an updated list of papers on Awesome-Agentic-MLLM. Contributions and suggestions are warmly welcome!
 
 ## 📒 Table of Contents
-
-- [Awesome-Agentic-MLLM](#awesome-agentic-mllm)
-  - [📒 Table of Contents](#-table-of-contents)
-  - [📄 Paper List](#-paper-list)
-    - [Foundational MLLMs](#foundational-mllms)
-      - [Dense MLLMs](#dense-mllms)
-      - [MoE MLLMs](#moe-mllms)
-    - [Agentic Internal Intelligence](#agentic-internal-intelligence)
-      - [Agentic Reasoning](#agentic-reasoning)
-      - [Agentic Reflection](#agentic-reflection)
-      - [Agentic Memory](#agentic-memory)
-    - [Agentic External Tool Invocation](#agentic-external-tool-invocation)
-      - [Agentic Search](#agentic-search)
-      - [Agentic Code](#agentic-code)
-      - [Agentic Data Process](#agentic-data-process)
-    - [Agentic Training Framework](#agentic-training-framework)
-    <!--
-    - [Agentic Training Dataset](#agentic-training-dataset)
-    - [Agentic Evaluation Benchmark](#agentic-evaluation-benchmark)
-    -->
+- [🔔 News](#-news)
+- [📒 Table of Contents](#-table-of-contents)
+- [📄 Paper List](#-paper-list)
+  - [Foundational MLLMs](#foundational-mllms)
+    - [Dense MLLMs](#dense-mllms)
+    - [MoE MLLMs](#moe-mllms)
+  - [Agentic Internal Intelligence](#agentic-internal-intelligence)
+    - [Agentic Reasoning](#agentic-reasoning)
+    - [Agentic Reflection](#agentic-reflection)
+    - [Agentic Memory](#agentic-memory)
+  - [Agentic External Tool Invocation](#agentic-external-tool-invocation)
+    - [Agentic Search](#agentic-search)
+    - [Agentic Code](#agentic-code)
+    - [Agentic Visual Processing](#agentic-data-process)
+  - [Agentic Enviroment Interaction](#agentic-enviroment-interaction)
+    - [Agentic Virtual Interaction](#agentic-virtual-interaction)
+    - [Agentic Physical Interaction](#agentic-physical-interaction)
+  - [Agentic Training Framework](#agentic-training-framework)
+  <!--
+  - [Agentic Training Dataset](#agentic-training-dataset)
+  - [Agentic Evaluation Benchmark](#agentic-evaluation-benchmark)
+  -->
 ---
 
 
@@ -258,7 +260,7 @@ This curated collection features influential papers, codebases, datasets, benchm
 
 ---
 
-### Agentic Enviromental Interaction
+### Agentic Enviroment Interaction
 
 #### Agentic Virtual Interaction
 
@@ -303,6 +305,7 @@ This curated collection features influential papers, codebases, datasets, benchm
 |:-:|:-|
 | LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/hiyouga/LLaMA-Factory) |
 | ms-swift: SWIFT (Scalable lightWeight Infrastructure for Fine-Tuning) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/modelscope/ms-swift) |
+| Megatron-LM | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/NVIDIA/Megatron-LM) |
 | Unsloth | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/unslothai/unsloth) |
 
 ---
