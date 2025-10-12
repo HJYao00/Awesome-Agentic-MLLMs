@@ -1,7 +1,8 @@
 # 🤖Awesome-Agentic-MLLMs
 
-[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) [![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg)](https://github.com/zzli2022/System2-Reasoning-LLM)
-[![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-blue)]()
+[![Maintenance](https://img.shields.io/badge/Maintenance-FF9800?style=plastic&logo=maintenance&logoColor=white)]()
+[![Discussion](https://img.shields.io/badge/Discussion-Open-brightgreen?style=plastic&logo=discussion&logoColor=white)]()
+[![Contribution Welcome](https://img.shields.io/badge/Contribution-Welcome-blue?style=plastic&logo=discussion&logoColor=white)]()
 
 
 👏 Welcome to the **Awesome-Agentic-MLLM** repository!
