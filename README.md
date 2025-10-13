@@ -11,6 +11,17 @@ This curated collection features influential papers, codebases, datasets, benchm
 
 ⭐ Feel free to **star** and **fork** this repository to stay updated with the latest advancements and contribute to the growing community.
 
+
+<!--
+<details open><summary>📣 I also have an Awesome-Agentic-MLLMs collection that may interest you ✨. </summary><p>
+
+
+> [**Awesome-Agentic-MLLMs**](https://github.com/HJYao00/Awesome-Agentic-MLLMs) <br> 
+>  [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/HJYao00/Awesome-Agentic-MLLMs)
+
+-->
+
+
 ---
 ## 🔔 News
 - [x] **`Oct 12, 2025.`** This repository curates and maintains an updated list of papers on Awesome-Agentic-MLLM. Contributions and suggestions are warmly welcome!
