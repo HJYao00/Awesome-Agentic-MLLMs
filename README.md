@@ -43,30 +43,6 @@ This curated collection features influential papers, codebases, datasets, benchm
 
 ## 📄 Paper List
 
-<!--
-## Survey
-| Date |  Title | Paper | Github |
-|:-:|:-:|:-|:-:|
-| 2308 | A Survey on Large Language Model based Autonomous Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2308.11432) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Paitesanshi/LLM-Agent-Survey) |
-| 2402 | Large Multimodal Agents: A Survey | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2402.15116) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/jun0wanan/awesome-large-multimodal-agents) |
-
-* [2308] A Survey on Large Language Model based Autonomous Agents [[Paper📑]](https://arxiv.org/abs/2308.11432) [[Project📚]](https://github.com/DavidZWZ/Awesome-Deep-Research)
-* [2402] Large Multimodal Agents: A Survey [[Paper📑]](https://arxiv.org/abs/2402.15116)
-* [2501] Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG [[Paper📑]](https://arxiv.org/abs/2501.09136)
-* [2502] Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation [[Paper📑]](https://arxiv.org/abs/2502.08826)
-* [2503] Agentic Large Language Models, a survey [[Paper📑]](https://arxiv.org/abs/2503.23037)
-* [2504] From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs [[Paper📑]](https://arxiv.org/pdf/2504.15965)
-* [2505] Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions [[Paper📑]](https://arxiv.org/abs/2505.00675)
-* [2506] From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents [[Paper📑]](https://arxiv.org/abs/2506.18959) [[Project📚]](https://github.com/DavidZWZ/Awesome-Deep-Research)
-* [2507] Evaluation and Benchmarking of LLM Agents: A Survey [[Paper📑]](https://arxiv.org/pdf/2507.21504)
-* [2508] AI Agentic Programming: A Survey of Techniques, Challenges, and Opportunities [[Paper📑]](https://arxiv.org/pdf/2508.11126)
-* [2508] Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction [[Paper📑]](https://arxiv.org/pdf/2508.05294)
-* [2508] A Survey on Agent Workflow – Status and Future [[Paper📑]](https://arxiv.org/pdf/2508.01186)
-
--->
-
----
-
 
 ### Foundational MLLMs
 
@@ -371,3 +347,26 @@ This curated collection features influential papers, codebases, datasets, benchm
 |:-:|:-|
 | 2509 | Wall-x: Igniting VLMs toward the Embodied Space | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2509.11766) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/X-Square-Robot/wall-x) |
 -->
+
+<!--
+## Survey
+| Date |  Title | Paper | Github |
+|:-:|:-:|:-|:-:|
+| 2308 | A Survey on Large Language Model based Autonomous Agents | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2308.11432) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Paitesanshi/LLM-Agent-Survey) |
+| 2402 | Large Multimodal Agents: A Survey | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2402.15116) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/jun0wanan/awesome-large-multimodal-agents) |
+
+* [2308] A Survey on Large Language Model based Autonomous Agents [[Paper📑]](https://arxiv.org/abs/2308.11432) [[Project📚]](https://github.com/DavidZWZ/Awesome-Deep-Research)
+* [2402] Large Multimodal Agents: A Survey [[Paper📑]](https://arxiv.org/abs/2402.15116)
+* [2501] Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG [[Paper📑]](https://arxiv.org/abs/2501.09136)
+* [2502] Ask in Any Modality: A Comprehensive Survey on Multimodal Retrieval-Augmented Generation [[Paper📑]](https://arxiv.org/abs/2502.08826)
+* [2503] Agentic Large Language Models, a survey [[Paper📑]](https://arxiv.org/abs/2503.23037)
+* [2504] From Human Memory to AI Memory: A Survey on Memory Mechanisms in the Era of LLMs [[Paper📑]](https://arxiv.org/pdf/2504.15965)
+* [2505] Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions [[Paper📑]](https://arxiv.org/abs/2505.00675)
+* [2506] From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents [[Paper📑]](https://arxiv.org/abs/2506.18959) [[Project📚]](https://github.com/DavidZWZ/Awesome-Deep-Research)
+* [2507] Evaluation and Benchmarking of LLM Agents: A Survey [[Paper📑]](https://arxiv.org/pdf/2507.21504)
+* [2508] AI Agentic Programming: A Survey of Techniques, Challenges, and Opportunities [[Paper📑]](https://arxiv.org/pdf/2508.11126)
+* [2508] Towards Embodied Agentic AI: Review and Classification of LLM- and VLM-Driven Robot Autonomy and Interaction [[Paper📑]](https://arxiv.org/pdf/2508.05294)
+* [2508] A Survey on Agent Workflow – Status and Future [[Paper📑]](https://arxiv.org/pdf/2508.01186)
+---
+-->
+
