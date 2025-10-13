@@ -27,9 +27,9 @@ This curated collection features influential papers, codebases, datasets, benchm
     - [Agentic Reflection](#agentic-reflection)
     - [Agentic Memory](#agentic-memory)
   - [Agentic External Tool Invocation](#agentic-external-tool-invocation)
-    - [Agentic Search](#agentic-search)
-    - [Agentic Code](#agentic-code)
-    - [Agentic Visual Processing](#agentic-data-process)
+    - [Agentic Search for Information Retrieval](#agentic-search-for-information-retrieval)
+    - [Agentic Coding for Complex Computations](#agentic-coding-for-complex-computations)
+    - [Agentic Visual Processing for Thinking with Image](#agentic-visual-processing-for-thinking-with-image)
   - [Agentic Enviroment Interaction](#agentic-enviroment-interaction)
     - [Agentic Virtual Interaction](#agentic-virtual-interaction)
     - [Agentic Physical Interaction](#agentic-physical-interaction)
@@ -169,7 +169,7 @@ This curated collection features influential papers, codebases, datasets, benchm
 
 ### Agentic External Tool Invocation
 
-#### Agentic Search 
+#### Agentic Search for Information Retrieval
 
 | Date |  Title | Paper | Code |
 |:-:|:-:|:-|:-:|
@@ -214,7 +214,7 @@ This curated collection features influential papers, codebases, datasets, benchm
 
 ---
 
-#### Agentic Code
+#### Agentic Coding for Complex Computations
 
 | Date |  Title | Paper | Code |
 |:-:|:-:|:-|:-:|
@@ -228,7 +228,7 @@ This curated collection features influential papers, codebases, datasets, benchm
 
 ---
 
-#### Agentic Data Process
+#### Agentic Visual Processing for Thinking with Image
 | Date |  Title | Paper | Code |
 |:-:|:-:|:-|:-:|
 | 2501 | Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2501.13926) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/ZiyuGuo99/Image-Generation-CoT) |
