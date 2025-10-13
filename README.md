@@ -21,8 +21,12 @@ This curated collection features influential papers, codebases, datasets, benchm
 
 -->
 
+<!--
 
----
+> Agentic MLLM ... TBD
+
+-->
+
 ## 🔔 News
 - [x] **`Oct 12, 2025.`** This repository curates and maintains an updated list of papers on Awesome-Agentic-MLLM. Contributions and suggestions are warmly welcome!
 
