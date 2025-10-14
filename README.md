@@ -21,11 +21,9 @@ This curated collection features influential papers, codebases, datasets, benchm
 
 -->
 
-<!--
 
-> Agentic MLLM ... TBD
+> We collect recent advances in **Agentic MLLMs** and categorize them into three core dimensions: (1) **Agentic Internal Intelligence**, which leverages reasoning, reflection, and memory to enable accurate long-horizon planning; (2) **Agentic External Tool Invocation**, whereby models proactively use various external tools to extend their problem-solving capabilities beyond their intrinsic knowledge; and (3) **Agentic environment interaction**, which situates models within virtual or physical environments, allowing them to perceive changes and incorporate feedback from the real world.
 
--->
 
 ## 🔔 News
 - [x] **`Oct 12, 2025.`** This repository curates and maintains an updated list of papers on Awesome-Agentic-MLLM. Contributions and suggestions are warmly welcome!
