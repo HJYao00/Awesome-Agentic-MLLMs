@@ -1,35 +1,42 @@
 # 🤖Awesome-Agentic-MLLMs
 
+[![arXiv](https://img.shields.io/badge/arXiv-2510.10991-b31b1b.svg)](https://arxiv.org/abs/2510.10991)
 [![Maintenance](https://img.shields.io/badge/Maintenance-FF9800?style=plastic&logo=maintenance&logoColor=white)]()
 [![Discussion](https://img.shields.io/badge/Discussion-Open-brightgreen?style=plastic&logo=discussion&logoColor=white)]()
 [![Contribution Welcome](https://img.shields.io/badge/Contribution-Welcome-blue?style=plastic&logo=discussion&logoColor=white)]()
 
-
 👏 Welcome to the **Awesome-Agentic-MLLMs** repository!
 This curated collection features influential papers, codebases, datasets, benchmarks, and resources dedicated to exploring the emerging field of agentic capabilities in Multimodal Large Language Models.
 
-
 ⭐ Feel free to **star** and **fork** this repository to stay updated with the latest advancements and contribute to the growing community.
 
-
-<!--
-<details open><summary>📣 I also have an Awesome-Agentic-MLLMs collection that may interest you ✨. </summary><p>
-
-
-> [**Awesome-Agentic-MLLMs**](https://github.com/HJYao00/Awesome-Agentic-MLLMs) <br> 
->  [![github](https://img.shields.io/badge/-Github-black?logo=github)](https://github.com/HJYao00/Awesome-Agentic-MLLMs)
-
--->
-
-
-> We collect recent advances in **Agentic MLLMs** and categorize them into three core dimensions: (1) **Agentic Internal Intelligence**, which leverages reasoning, reflection, and memory to enable accurate long-horizon planning; (2) **Agentic External Tool Invocation**, whereby models proactively use various external tools to extend their problem-solving capabilities beyond their intrinsic knowledge; and (3) **Agentic environment interaction**, which situates models within virtual or physical environments, allowing them to perceive changes and incorporate feedback from the real world.
+> We greatly appreciate and welcome everyone to submit an issue for any related work we may have missed, and we’ll review and address it in the next release!
 
 
 ## 🔔 News
+- [x] **`Oct 14, 2025.`** We’re excited to introduce our survey paper on agentic MLLMs. Check it out on [arXiv](https://arxiv.org/abs/2510.10991)!
 - [x] **`Oct 12, 2025.`** This repository curates and maintains an updated list of papers on Awesome-Agentic-MLLM. Contributions and suggestions are warmly welcome!
+
+## 🔗 Citation
+If you find this survey helpful, please cite our work:
+
+```bibtex
+@article{zhang2025survey,
+  title={A survey of reinforcement learning for large reasoning models},
+  author={Zhang, Kaiyan and Zuo, Yuxin and He, Bingxiang and Sun, Youbang and Liu, Runze and Jiang, Che and Fan, Yuchen and Tian, Kai and Jia, Guoli and Li, Pengfei and others},
+  journal={arXiv preprint arXiv:2509.08827},
+  year={2025}
+}
+```
+
+## 🌍 Overview
+We collect recent advances in **Agentic MLLMs** and categorize them into three core dimensions: (1) **Agentic Internal Intelligence**, which leverages reasoning, reflection, and memory to enable accurate long-horizon planning; (2) **Agentic External Tool Invocation**, whereby models proactively use various external tools to extend their problem-solving capabilities beyond their intrinsic knowledge; and (3) **Agentic environment interaction**, which situates models within virtual or physical environments, allowing them to perceive changes and incorporate feedback from the real world.
+
 
 ## 📒 Table of Contents
 - [🔔 News](#-news)
+- [🔗 Citation](#-citation)
+- [🌍 Overview](#-overview)
 - [📒 Table of Contents](#-table-of-contents)
 - [📄 Paper List](#-paper-list)
   - [Foundational MLLMs](#foundational-mllms)
