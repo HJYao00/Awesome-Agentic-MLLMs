@@ -112,9 +112,16 @@ This curated collection features influential papers, codebases, datasets, benchm
 | 2505 | Infi-MMR: Curriculum-based Unlocking Multimodal Reasoning via Phased Reinforcement Learning in Multimodal Small Language Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.23091) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://huggingface.co/InfiX-ai/Infi-MMR-3B) |
 | 2506 | GRPO-CARE: Consistency-Aware Reinforcement Learning for Multimodal Reasoning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2506.16141) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/TencentARC/GRPO-CARE) |
 | 2506 | WeThink: Toward General-purpose Vision-Language Reasoning via Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2506.07905) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/yangjie-cv/WeThink) |
+| 2506 | APO: Enhancing Reasoning Ability of MLLMs via Asymmetric Policy Optimization | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2506.21655) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Indolent-Kawhi/View-R1) |
 | 2507 | Scaling RL to Long Videos | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2507.07966) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://huggingface.co/Efficient-Large-Model/LongVILA-R1-7B) |
 | 2507 | VL-Cogito: Progressive Curriculum Reinforcement Learning for Advanced Multimodal Reasoning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2507.22607) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/alibaba-damo-academy/VL-Cogito) |
+| 2507 | C2-Evo: Co-Evolving Multimodal Data and Model for Self-Improving Reasoning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2507.16518) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/chen-xw/C2-Evo) |
+| 2507 | Open Vision Reasoner: Transferring Linguistic Cognitive Behavior for Visual Reasoning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2507.05255) | - |
+| 2508 | StructVRM: Aligning Multimodal Reasoning with Structured and Verifiable Reward Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.05383) | - |
+| 2509 | MAPO: Mixed Advantage Policy Optimization | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2509.18849) | - |
+| 2509 | MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and Open Resources | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2509.21268) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/LengSicong/MMR1) |
 | 2509 | VideoChat-R1.5: Visual Test-Time Scaling to Reinforce Multimodal Reasoning by Iterative Perception | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2509.21100) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/OpenGVLab/VideoChat-R1) |
+| 2509 | Perception Before Reasoning: Two-Stage Reinforcement Learning for Visual Reasoning in Vision-Language Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2509.13031) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/cythu/PeBR-R1) |
 
 
 
@@ -134,6 +141,8 @@ This curated collection features influential papers, codebases, datasets, benchm
 | 2505 | Training-Free Reasoning and Reflection in MLLMs | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.16151) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://iip.whu.edu.cn/frank/index.html) |
 | 2506 | SRPO: Enhancing Multimodal LLM Reasoning via Reflection-Aware Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2506.01713) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://srpo.pages.dev/) |
 | 2507 | Look-Back: Implicit Visual Re-focusing in MLLM Reasoning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2507.03019) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/PKU-YuanGroup/Look-Back) |
+| 2509 | Unveiling Chain of Step Reasoning for Vision-Language Models with Fine-grained Rewards | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2509.19003) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/baaivision/CoS) |
+| 2510 | SaFeR-VLM: Toward Safety-aware Fine-grained Reasoning in Multimodal Models | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2510.06871) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/HarveyYi/SaFeR-VLM) |
 
 
 ---
@@ -217,6 +226,8 @@ This curated collection features influential papers, codebases, datasets, benchm
 | 2507 | PyVision: Agentic Vision with Dynamic Tooling | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2507.07998) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/agents-x-project/PyVision) |
 | 2508 | rStar2-Agent: Agentic Reasoning Technical Report | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.20722) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/microsoft/rStar) |
 | 2508 | Posterior-GRPO: Rewarding Reasoning Processes in Code Generation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.05170) | - |
+| 2509 | Tool-R1: Sample-Efficient Reinforcement Learning for Agentic Tool Use | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2509.12867) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/YBYBZhang/Tool-R1) |
+
 
 ---
 
@@ -233,6 +244,7 @@ This curated collection features influential papers, codebases, datasets, benchm
 | 2505 | OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.08617) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/zhaochen0110/OpenThinkIMG) |
 | 2505 | Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.15436) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/xtong-zhang/Chain-of-Focus) |
 | 2505 | Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.15966) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/TIGER-AI-Lab/Pixel-Reasoner) |
+| 2508 | Simple o3: Towards Interleaved Vision-Language Reasoning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.12109) | - |
 | 2509 | Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2509.07969) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://mini-o3.github.io/) |
 
 
@@ -286,6 +298,7 @@ This curated collection features influential papers, codebases, datasets, benchm
 | 2508 | EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for General Robot Control | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.21112) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://eo-robotics.ai/eo-1) |
 | 2509 | Nav-R1: Reasoning and Navigation in Embodied Scenes | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://www.arxiv.org/abs/2509.10884) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/AIGeeksGroup/Nav-R1) |
 | 2509 | Wall-x: Igniting VLMs toward the Embodied Space | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/pdf/2509.11766) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/X-Square-Robot/wall-x) |
+| 2509 | VLA-Reasoner: Empowering Vision-Language-Action Models with Reasoning via Online Monte Carlo Tree Search | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2509.22643) | - |
 
 
 ---
@@ -315,33 +328,6 @@ This curated collection features influential papers, codebases, datasets, benchm
 | Search-R1: Train your LLMs to reason and call a search engine with reinforcement learning  | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/PeterGriffinJin/Search-R1) |
 | Multimodal-Search-R1: Incentivizing LMMs to Search | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1) |
 | Visual Agentic Reinforcement Fine-Tuning | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT) |
-
-<!--
-* TRL: Transformer Reinforcement Learning [[Code🔧]](https://github.com/huggingface/trl)
-* Open R1 [[Code🔧]](https://github.com/huggingface/open-r1)
-* OpenRLHF [[Code🔧]](https://github.com/OpenRLHF/OpenRLHF)
-* Multimodal Open R1 [[Code🔧]](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)
-* RLFactory: Easy and Efficient RL Training [[Code🔧]](https://github.com/Simple-Efficient/RL-Factory)
-* Logic-RL: Unleashing LLM Reasoning with Rule-Based Reinforcement Learning [[Code🔧]](https://github.com/Unakar/Logic-RL)
-* EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework [[Code🔧]](https://github.com/hiyouga/EasyR1)
-* Simple-R1: Simple Reinforcement Learning for Reasoning [[Code🔧]](https://github.com/hkust-nlp/simpleRL-reason)
-* Light-R1: Curriculum SFT, DPO and RL for Long COT from Scratch and Beyond [[Code🔧]](https://github.com/Qihoo360/Light-R1)
-* RL2: Ray Less Reinforcement Learning [[Code🔧]](https://github.com/ChenmienTan/RL2/tree/main)
-* OAT [[Code🔧]](https://github.com/sail-sg/oat)
-* R1-V: Reinforcing Super Generalization Ability in Vision Language Models with Less Than $3 [[Code🔧]](https://github.com/StarsfieldAI/R1-V)
-* Visual-RFT: Visual Reinforcement Fine-Tuning [[Code🔧]](https://github.com/Liuziyu77/Visual-RFT)
-* Search-R1: Train your LLMs to reason and call a search engine with reinforcement learning [[Code🔧]](https://github.com/PeterGriffinJin/Search-R1)
-* Multimodal-Search-R1: Incentivizing LMMs to Search [[Code🔧]](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)
-* Agent Lightning [[Code🔧]](https://github.com/microsoft/agent-lightning)
-* ROLL: Reinforcement Learning Optimization for Large-Scale Learning [[Code🔧]](https://github.com/alibaba/ROLL)
-* RAGEN: Training Agents by Reinforcing Reasoning [[Code🔧]](https://github.com/RAGEN-AI/RAGEN)
-* MARTI: A Framework for LLM-based Multi-Agent Reinforced Training and Inference [[Code🔧]](https://github.com/TsinghuaC3I/MARTI)
-* SkyRL: A Modular Full-stack RL Library for LLMs [[Code🔧]](https://github.com/NovaSky-AI/SkyRL)
-* AReaL: Ant Reasoning Reinforcement Learning for LLMs [[Code🔧]](https://github.com/inclusionAI/AReaL)
-* MiroRL: An MCP-first Reinforcement Learning Framework for Deep Research Agent [[Code🔧]](https://github.com/MiroMindAI/MiroRL)
-* AgentFly: Training scalable LLM agents with RL [[Code🔧]](https://github.com/Agent-One-Lab/AgentFly)
-* AWorld: The Agent Runtime for Self-Improvement [[Code🔧]](https://github.com/inclusionAI/AWorld/tree/main)
--->
 
 
 <!--
