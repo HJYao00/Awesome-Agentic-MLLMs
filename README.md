@@ -1,6 +1,6 @@
 # 🤖Awesome-Agentic-MLLMs
 
-[![arXiv](https://img.shields.io/badge/arXiv-2510.10991-b31b1b.svg)](https://arxiv.org/abs/2510.10991)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.10991-b31b1b.svg?style=plastic&)](https://arxiv.org/abs/2510.10991)
 [![Maintenance](https://img.shields.io/badge/Maintenance-FF9800?style=plastic&logo=maintenance&logoColor=white)]()
 [![Discussion](https://img.shields.io/badge/Discussion-Open-brightgreen?style=plastic&logo=discussion&logoColor=white)]()
 [![Contribution Welcome](https://img.shields.io/badge/Contribution-Welcome-blue?style=plastic&logo=discussion&logoColor=white)]()
