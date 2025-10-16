@@ -186,6 +186,7 @@ We collect recent advances in **Agentic MLLMs** and categorize them into three c
 | 2508 | Patho-AgenticRAG: Towards Multimodal Agentic Retrieval-Augmented Generation for Pathology VLMs via Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.02258) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Wenchuan-Zhang/Patho-AgenticRAG) |
 | 2508 | M2IO-R1: An Efficient RL-Enhanced Reasoning Framework for Multimodal Retrieval Augmented Multimodal Generation | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.06328) | - |
 | 2508 | WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.05748) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/Alibaba-NLP/WebAgent) |
+| 2510 | DeepMMSearch-R1: Empowering Multimodal LLMs in Multimodal Web Search | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2510.12801) | - |
 
 <!--
 * [2505] VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning [[Paper📑]](https://arxiv.org/abs/2505.22019) [[Code🔧]](https://github.com/Alibaba-NLP/VRAG)
