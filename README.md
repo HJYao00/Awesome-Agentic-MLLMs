@@ -21,10 +21,10 @@ This curated collection features influential papers, codebases, datasets, benchm
 If you find this survey helpful, please cite our work:
 
 ```bibtex
-@article{zhang2025survey,
-  title={A survey of reinforcement learning for large reasoning models},
-  author={Zhang, Kaiyan and Zuo, Yuxin and He, Bingxiang and Sun, Youbang and Liu, Runze and Jiang, Che and Fan, Yuchen and Tian, Kai and Jia, Guoli and Li, Pengfei and others},
-  journal={arXiv preprint arXiv:2509.08827},
+@article{yao2025survey,
+  title={A Survey on Agentic Multimodal Large Language Models},
+  author={Yao, Huanjin and Zhang, Ruifei and Huang, Jiaxing and Zhang, Jingyi and Wang, Yibo and Fang, Bo and Zhu, Ruolin and Jing, Yongcheng and Liu, Shunyu and Li, Guanbin and others},
+  journal={arXiv preprint arXiv:2510.10991},
   year={2025}
 }
 ```
