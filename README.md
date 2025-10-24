@@ -251,6 +251,7 @@ We collect recent advances in **Agentic MLLMs** and categorize them into three c
 | 2505 | Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.15436) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/xtong-zhang/Chain-of-Focus) |
 | 2505 | Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2505.15966) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/TIGER-AI-Lab/Pixel-Reasoner) |
 | 2508 | Simple o3: Towards Interleaved Vision-Language Reasoning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.12109) | - |
+| 2508 | Thyme: Think Beyond Images | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.11630) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://thyme-vl.github.io/) |
 | 2509 | Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual Search | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2509.07969) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://mini-o3.github.io/) |
 
 
