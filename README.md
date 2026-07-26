@@ -287,6 +287,7 @@ We collect recent advances in **Agentic MLLMs** and categorize them into three c
 | 2506 | GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2506.08012) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://penghao-wu.github.io/GUI_Reflection/) |
 | 2509 | InfraMind: A Novel Exploration-based GUI Agentic Framework for Mission-critical Industrial Management | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2509.13704) | - |
 | 2509 | UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2509.02544) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/bytedance/ui-tars) |
+| 2604 | ClawBench: Can AI Agents Complete Everyday Online Tasks? | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2604.08523) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/reacher-z/ClawBench) |
 
 
 ---
