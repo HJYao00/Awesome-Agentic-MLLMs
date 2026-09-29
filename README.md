@@ -170,6 +170,7 @@ We collect recent advances in **Agentic MLLMs** and categorize them into three c
 | 2508 | Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.19828) | - |
 | 2508 | Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.08997) | - |
 | 2508 | MMS: Multiple Memory Systems for Enhancing the Long-term Memory of Agent | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2508.15294) | - |
+| 2609 | EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks | [![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge)](https://arxiv.org/abs/2609.28236) | [![Code](https://img.shields.io/badge/Code-A42C25?style=for-the-badge&color=black)](https://github.com/ZJU-OmniAI/Embodied-Omni/tree/main/embodied_memory) |
 
 ----
 
